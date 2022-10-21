@@ -1,0 +1,5061 @@
+﻿,unique_values,counts
+0,Philadelphia,24899
+1,Pennsylvania,10722
+2,U.S.,9564
+3,Texas,7939
+4,the United States,7537
+5,New York,4545
+6,New Jersey,4499
+7,California,3993
+8,Washington,3706
+9,Mexico,3703
+10,US,3675
+11,Ukraine,3564
+12,PHILADELPHIA,3559
+13,Florida,3290
+14,Russia,3185
+15,Eagles,2848
+16,America,2682
+17,Chicago,2313
+18,Los Angeles,2247
+19,Delaware,2159
+20,Houston,1949
+21,Uvalde,1897
+22,Arizona,1802
+23,South Street,1648
+24,Black,1605
+25,Miami,1523
+26,Georgia,1416
+27,Pa.,1318
+28,Europe,1315
+29,San Antonio,1307
+30,Capitol,1272
+31,Israel,1255
+32,Dallas,1171
+33,Virginia,1141
+34,New York City,1124
+35,Maryland,1107
+36,Pittsburgh,1099
+37,Center City,1088
+38,Canada,1080
+39,Atlanta,1071
+40,China,1070
+41,Ohio,1060
+42,Illinois,1016
+43,Colombia,1001
+44,North Carolina,946
+45,Buffalo,946
+46,Harden,891
+47,Atlantic City,881
+48,D.C.,853
+49,Highland Park,848
+50,South Philadelphia,840
+51,Puerto Rico,833
+52,San Francisco,832
+53,Spain,828
+54,Boston,824
+55,Hollywood,776
+56,Colorado,776
+57,Montgomery County,749
+58,Michigan,749
+59,West Philadelphia,737
+60,Moscow,714
+61,Brooklyn,709
+62,WASHINGTON,709
+63,Connecticut,704
+64,Sacramento,699
+65,London,692
+66,North Philadelphia,681
+67,Africa,674
+68,Germany,658
+69,Camden,655
+70,N.J.,649
+71,Harrisburg,646
+72,Venezuela,634
+73,Austin,627
+74,Us,619
+75,Utah,610
+76,Baltimore,599
+77,France,597
+78,Phoenix,578
+79,South Jersey,573
+80,Tennessee,564
+81,Missouri,549
+82,Indiana,547
+83,Massachusetts,545
+84,Alabama,545
+85,South Philly,540
+86,Japan,539
+87,Abbott,538
+88,Delaware County,536
+89,Cuba,535
+90,Mississippi,530
+91,United States,525
+92,Mars,524
+93,Bucks County,517
+94,Latin America,516
+95,Detroit,512
+96,Minnesota,509
+97,South Carolina,507
+98,Earth,498
+99,Las Vegas,493
+100,Kensington,489
+101,Seattle,476
+102,Oklahoma,476
+103,Wisconsin,474
+104,VX,468
+105,Iran,461
+106,Guatemala,458
+107,Manhattan,454
+108,Toronto,452
+109,Louisiana,451
+110,South,447
+111,the White House,434
+112,DC,433
+113,Italy,432
+114,Jupiter,429
+115,San Diego,429
+116,Tampa,429
+117,Kentucky,428
+118,Caribbean,422
+119,Chestnut Hill,422
+120,Oregon,413
+121,City Hall,412
+122,West Chester,403
+123,Paris,402
+124,Orlando,395
+125,West Virginia,395
+126,St. Louis,394
+127,NEW YORK,391
+128,Chester County,390
+129,Mexico City,390
+130,Minneapolis,389
+131,USA,383
+132,Broadway,375
+133,Australia,374
+134,Netflix,368
+135,PA,368
+136,Brazil,360
+137,The United States,360
+138,Nevada,355
+139,Philly,352
+140,Venus,352
+141,North America,343
+142,Honduras,342
+143,Iowa,342
+144,Milwaukee,338
+145,Germantown,338
+146,Old City,335
+147,Washington Avenue,335
+148,New Mexico,329
+149,the United Kingdom,326
+150,Saudi Arabia,321
+151,England,318
+152,Washington DC,316
+153,U.K.,312
+154,Britain,312
+155,Argentina,306
+156,Broad Street,305
+157,Maine,301
+158,Fetterman,299
+159,India,297
+160,Americas,296
+161,Northeast,295
+162,Denver,295
+163,Afghanistan,294
+164,Wyoming,288
+165,El Salvador,287
+166,Nashville,287
+167,Germantown Avenue,286
+168,Hawaii,285
+169,West Philly,284
+170,Maxey,281
+171,Kansas,280
+172,Arkansas,279
+173,Gemini,278
+174,New Orleans,277
+175,Haiti,273
+176,Parkland,269
+177,Montana,269
+178,FDR Park,268
+179,Cincinnati,267
+180,Ocean City,267
+181,Wilmington,266
+182,Allentown,266
+183,Columbus,264
+184,Atlantic,262
+185,Asia,259
+186,Wildwood,257
+187,Cape May,255
+188,West,252
+189,Nicaragua,251
+190,Taiwan,249
+191,the Dominican Republic,247
+192,Turkey,247
+193,Cleveland,246
+194,Portland,244
+195,Oakland,243
+196,the City of Philadelphia,243
+197,Bronx,242
+198,Nexstar,241
+199,Indianapolis,239
+200,Madrid,239
+201,Alaska,229
+202,Newark,228
+203,Salt Lake City,221
+204,Northeast Philadelphia,220
+205,QB,220
+206,the Delaware River,219
+207,Smith,216
+208,Memorial Day,213
+209,Thor,212
+210,Fort Worth,210
+211,Pottstown,209
+212,Calif.,209
+213,Parkway,208
+214,University City,207
+215,Rhode Island,207
+216,Idaho,206
+217,Jackson,203
+218,Tijuana,200
+219,Nigeria,199
+220,Lehigh Valley,198
+221,Greater Philadelphia,197
+222,Kansas City,196
+223,Beijing,196
+224,the Middle East,195
+225,Tucson,194
+226,Outlaw,193
+227,Donbas,193
+228,Sweden,192
+229,Nebraska,191
+230,Bannon,190
+231,Peru,187
+232,Cherry Hill,187
+233,San José,184
+234,Poland,184
+235,Iraq,183
+236,Vatican,182
+237,Arlington,182
+238,LOS ANGELES,180
+239,New England,179
+240,New Jersey’s,178
+241,Barcelona,178
+242,Tulsa,178
+243,Bakersfield,177
+244,San Juan,177
+245,Central America,177
+246,Ukrainian,177
+247,Jersey,176
+248,Trenton,174
+249,Norristown,173
+250,Philippines,172
+251,Mt. Airy,170
+252,Tokyo,168
+253,Portugal,164
+254,Richmond,164
+255,Ecuador,163
+256,Camden County,163
+257,Qatar,162
+258,Vietnam,162
+259,N.Y.,161
+260,Carolina,159
+261,the Jersey Shore,158
+262,Hunting Park,156
+263,Chile,156
+264,Fairmount Park,155
+265,New Zealand,155
+266,Thailand,154
+267,Harris County,154
+268,Fishtown,154
+269,Fla.,153
+270,Del.,153
+271,Costa Rica,153
+272,NYC,153
+273,South Dakota,152
+274,Fresno,152
+275,Queens,150
+276,Burlington County,149
+277,Independence Hall,146
+278,Guadalajara,146
+279,Springfield,146
+280,the Schuylkill River,145
+281,Southwest,145
+282,Robb Elementary School,144
+283,Vegas,143
+284,Newtown,143
+285,Hurts,143
+286,Thybulle,143
+287,Charlotte,143
+288,Citizens Bank Park,142
+289,the East Coast,141
+290,the Proud Boys,141
+291,Syria,141
+292,Memphis,140
+293,Lancaster County,140
+294,Pacific,139
+295,New York’s,139
+296,Port Richmond,138
+297,New Hampshire,137
+298,Los Angeles County,137
+299,Long Island,137
+300,Chestnut Street,136
+301,El Paso,134
+302,District,134
+303,Rome,133
+304,Natalia,133
+305,HARRISBURG,133
+306,Cobbs Creek,132
+307,South Korea,132
+308,Southwest Philadelphia,131
+309,North Philly,131
+310,Allegheny County,131
+311,Market Street,131
+312,Vermont,130
+313,Galveston,129
+314,North Dakota,129
+315,the Delaware Valley,128
+316,Hong Kong,128
+317,North,127
+318,Miami-Dade,127
+319,Metro,127
+320,East,127
+321,Finland,125
+322,Philabundance,125
+323,Lehigh County,124
+324,the District of Columbia,124
+325,Luhansk,123
+326,Cherry Street Pier,121
+327,Berlin,119
+328,pennsylvania,117
+329,UK,117
+330,Scranton,115
+331,Roosevelt Boulevard,114
+332,South Africa,114
+333,Liberia,114
+334,Clark Park,111
+335,Jalisco,110
+336,Congo,110
+337,Inquirer,110
+338,L.A.,110
+339,Phoenixville,109
+340,Fairmount,109
+341,Rittenhouse Square,109
+342,St.,109
+343,Kueng,109
+344,Bolivia,109
+345,Wissahickon,109
+346,Uranus,109
+347,Kyiv,109
+348,Monterrey,108
+349,Louisville,108
+350,South America,108
+351,Ardmore,108
+352,ATLANTIC CITY,107
+353,LA,107
+354,Delaware River,107
+355,Egypt,106
+356,MD,106
+357,Jordan,106
+358,Sheffield,106
+359,Yellowstone,105
+360,NRA,104
+361,Media,104
+362,Southern California,104
+363,New Jersey's,104
+364,Havana,104
+365,Oaxaca,104
+366,LONDON,103
+367,Amazon Worth,103
+368,Jersey Shore,102
+369,the Bay area,102
+370,Independence Mall,102
+371,Ireland,102
+372,Main Street,101
+373,Awake America,100
+374,Philadelphia International Airport,100
+375,Istanbul,99
+376,Chiapas,99
+377,Odesa,99
+378,Rehoboth Beach,99
+379,Unimás,99
+380,Charleston,99
+381,Walnut Street,98
+382,VA,98
+383,Va.,98
+384,Midwest,98
+385,Orange County,98
+386,Amsterdam,96
+387,Netherlands,96
+388,Victoria,96
+389,Jacksonville,96
+390,Brandon,96
+391,Franklin Square,96
+392,Spotify,95
+393,Bensalem,95
+394,Denmark,94
+395,Queen Village,94
+396,Greece,94
+397,Montreal,94
+398,States,93
+399,Jeopardy,93
+400,Upper Darby,92
+401,Singapore,92
+402,Jamaica,92
+403,Robb Elementary,92
+404,Jefferson,91
+405,Berks County,91
+406,Washington D.C.,91
+407,Mediterranean,91
+408,Switzerland,90
+409,San Jose,90
+410,Morocco,89
+411,Milan,89
+412,Tiktok,88
+413,Hammonton,88
+414,Savannah,88
+415,Nationals,88
+416,Indonesia,88
+417,Delta,88
+418,Frankford,88
+419,Capricorn,87
+420,the NL East,87
+421,Birmingham,87
+422,The City of Philadelphia,86
+423,Morey,86
+424,Scotland,86
+425,Sea Isle City,86
+426,Cape May County,85
+427,Norway,85
+428,Jerusalem,85
+429,Michoacán,84
+430,Kenya,84
+431,Ill.,84
+432,Malvern,84
+433,East Coast,84
+434,the City of Brotherly Love,84
+435,Franklin County,84
+436,North Korea,83
+437,Alberta,82
+438,Bethlehem,81
+439,the Gulf of Mexico,81
+440,Eflin,81
+441,SAN FRANCISCO,81
+442,Tapachula,81
+443,TRAINER,81
+444,the Ben Franklin Parkway,80
+445,Juneteenth,80
+446,Gloucester County,80
+447,KD,80
+448,Notre Dame,80
+449,Telemundo62,79
+450,Lake County,79
+451,Girard Avenue,79
+452,Ontario,78
+453,CHICAGO,78
+454,East Passyunk,78
+455,Pakistan,78
+456,the Atlantic Ocean,77
+457,the Black Sea,77
+458,Aiden,77
+459,Dilworth Park,76
+460,Ethiopia,76
+461,Lancaster,76
+462,North Jersey,75
+463,Panama,75
+464,Ottawa,75
+465,Omaha,74
+466,Chick,74
+467,New York's,73
+468,North Broad Street,72
+469,Bahamas,72
+470,Springfield Township,72
+471,Belgium,71
+472,Great Britain,71
+473,Puerto,71
+474,Calgary,71
+475,Morelos,71
+476,the Golden State Warriors,71
+477,Sirianni,71
+478,Bangkok,70
+479,Kamala,70
+480,the Garden State,70
+481,South Florida,70
+482,Vancouver,70
+483,u.s.,70
+484,West Oak Lane,70
+485,Veracruz,70
+486,Baja,69
+487,Lysychansk,69
+488,East Germantown,69
+489,N.C.,69
+490,Salem,69
+491,Sánchez,69
+492,Md.,69
+493,Wales,69
+494,Lebanon,68
+495,Dover,68
+496,U.S,68
+497,South St.,67
+498,Doylestown,67
+499,Toledo,67
+500,4th Street,67
+501,the School District of Philadelphia,67
+502,Moderna,67
+503,the Event Center at Live!,67
+504,Alfredo,66
+505,Adrián,66
+506,the Eastern District,65
+507,the Benjamin Franklin Parkway,65
+508,York,65
+509,Jenkintown,65
+510,Stockton,65
+511,Derby,65
+512,Realmuto,64
+513,Chester,64
+514,Coatesville,64
+515,Chinatown,64
+516,Santa Ana,64
+517,Fahrenheit,64
+518,Dallas County,64
+519,Miami Beach,64
+520,Frankford Avenue,63
+521,Harlem,63
+522,Kensington Avenue,63
+523,Black Sea,63
+524,Dobbs,63
+525,Hungary,63
+526,Tops,63
+527,Lansdale,62
+528,Krasner,62
+529,Langhorne,62
+530,Pasadena,62
+531,White,62
+532,Oklahoma City,62
+533,Verónica,62
+534,Long Beach,61
+535,Shanghai,61
+536,the United States of America,61
+537,P.S.,61
+538,Gettysburg,61
+539,St. Joe’s,61
+540,San Bernardino,61
+541,Curry,61
+542,New Castle County,60
+543,Albany,60
+544,AI,60
+545,Long Beach Island,60
+546,Tehran,59
+547,Malta,59
+548,HOUSTON,59
+549,Cumberland,59
+550,Spruce Street Harbor Park,59
+551,the Soviet Union,59
+552,Holland,59
+553,the Fashion District,59
+554,Turpin,59
+555,Moniak,58
+556,Amazon Prime,58
+557,West Nile,58
+558,ROE,58
+559,Cumberland County,58
+560,Atlantic City’s,58
+561,Strawberry Mansion,58
+562,Taurus,58
+563,Silicon Valley,58
+564,Barstool,57
+565,AC,57
+566,Central Park,57
+567,Xavier,57
+568,Khashoggi,57
+569,Staten Island,57
+570,Rochester,57
+571,Madison Square Garden,57
+572,Riverside County,56
+573,Mass.,56
+574,Fairfax,56
+575,Belmont,56
+576,Santa Clara,56
+577,the NFC East,56
+578,Mercer County,56
+579,Raleigh,55
+580,DALLAS,55
+581,City,55
+582,Fire Island,55
+583,Murdaugh,55
+584,West Africa,55
+585,Snyder Avenue,55
+586,marijuana,55
+587,Shanahan,55
+588,Knebel,55
+589,Somalia,55
+590,Sarasota,54
+591,The Center Square,54
+592,Medellín,54
+593,Henderson,54
+594,the United Arab Emirates,54
+595,Aries,54
+596,Yemen,54
+597,Gulf,54
+598,King of Prussia,54
+599,Evaluna,54
+600,Ghana,54
+601,Pelosi,54
+602,Vinnytsia,54
+603,the Mann Center,54
+604,Cambodia,54
+605,Spring Garden,53
+606,5th Street,53
+607,Subaru Park,53
+608,Tenn.,53
+609,Nile,53
+610,Beverly Hills,53
+611,Pandemia,53
+612,Quebec,53
+613,Dubai,52
+614,Laredo,52
+615,Dominican Republic,52
+616,Lake Michigan,52
+617,Eakins Oval,52
+618,Yuma,52
+619,Street,52
+620,Univisión,52
+621,West Coast,52
+622,Nicetown,52
+623,the Lehigh Valley,52
+624,Sydney,52
+625,Conn.,51
+626,Columbia,51
+627,the West Coast,51
+628,Delaware Valley,51
+629,Sportradar,51
+630,Uruguay,51
+631,Danielle,50
+632,East Falls,50
+633,Hulu,50
+634,Edmonton,50
+635,St. Petersburg,50
+636,Valley,50
+637,Centre County,50
+638,Southeastern Pennsylvania,50
+639,Sri Lanka,50
+640,Longwood Gardens,49
+641,Romania,49
+642,ER,49
+643,Elkins Park,49
+644,Neptune,49
+645,The Oval XP,49
+646,North Wildwood,49
+647,the West Bank,49
+648,Georgetown,49
+649,Northeast Philly,49
+650,Wayne,49
+651,Providence,49
+652,Burlington,49
+653,Fort Lauderdale,48
+654,Fulton County,48
+655,TEXAS,48
+656,South Texas,48
+657,the Hudson River,48
+658,the Robb Elementary School,48
+659,El Monte,48
+660,Atlantic City's,48
+661,Lima,48
+662,Tallahassee,48
+663,Sesame Street,48
+664,LOVE Park,48
+665,El Gordo,48
+666,NJ,47
+667,Aramark,47
+668,United Kingdom,47
+669,Zeoli,47
+670,Marvel,47
+671,Ridley Park,47
+672,South Broad Street,47
+673,St. Joseph’s,47
+674,CAMDEN,47
+675,Anaheim,47
+676,Reading,47
+677,Cook County,47
+678,Vineland,47
+679,Fairhill,47
+680,Ridge Avenue,47
+681,Miami-Dade County,47
+682,Paxton,46
+683,Modesto,46
+684,Sofia,46
+685,Jurgens,46
+686,Tatum,46
+687,Tel Aviv,46
+688,the Oval Office,46
+689,Gayborhood,46
+690,Myrtle Beach,46
+691,Sacramento County,46
+692,the Art Museum,46
+693,the Keystone State,45
+694,UU,45
+695,the National Mall,45
+696,Welcome America,45
+697,philadelphia,45
+698,Lexington,45
+699,Santa Monica,45
+700,Belarus,44
+701,Manila,44
+702,Cecil B. Moore Avenue,44
+703,Seoul,44
+704,Northern California,44
+705,Alexandria,44
+706,Pastorius Park,44
+707,Lancaster Avenue,44
+708,Watts,44
+709,Broward,44
+710,Wisin,44
+711,Downingtown,44
+712,D-Calif.,44
+713,Madison,44
+714,Magic Gardens,43
+715,Eastern Europe,43
+716,Jersey City,43
+717,D-Md.,43
+718,Minn.,43
+719,Honolulu,43
+720,Guam,43
+721,Brussels,43
+722,Hunting Park Avenue,43
+723,Kobe,43
+724,Vecna,42
+725,Lithuania,42
+726,Somerton,42
+727,Haverford Avenue,42
+728,Thorpe,42
+729,Premium,42
+730,Malaysia,42
+731,Rockland County,42
+732,Nacho,42
+733,Kennett Square,42
+734,Hershey,42
+735,NFC East,42
+736,New Castle,42
+737,Acapulco,42
+738,Medina,42
+739,Johnston,42
+740,Cambridge,41
+741,Hurricanes,41
+742,East Passyunk Avenue,41
+743,New York State,41
+744,Sahara,41
+745,Clarke,41
+746,Millville,41
+747,Sinopoli,41
+748,Logan Square,41
+749,Ga.,41
+750,Lake Mead,41
+751,Buckingham Palace,41
+752,Sasha,41
+753,Madden,41
+754,the Underground Railroad,41
+755,52nd Street,41
+756,metro,40
+757,Albuquerque,40
+758,Santa Clara County,40
+759,Android,40
+760,Baton Rouge,40
+761,Bulgaria,40
+762,Fort Mifflin,40
+763,Casa,40
+764,Athens,40
+765,Thomas,40
+766,Key,40
+767,the Wells Fargo Center,39
+768,York County,39
+769,Hartford,39
+770,Garland,39
+771,Caracas,39
+772,L Street,39
+773,Bucaramanga,39
+774,ATLANTA,39
+775,Valentina,39
+776,Vienna,39
+777,Thalia,39
+778,Appel,39
+779,West Point,39
+780,South Streets,39
+781,Canton,39
+782,Front Street,39
+783,Broward County,39
+784,Olney,38
+785,Fort,38
+786,Batsto Village,38
+787,British Columbia,38
+788,Sheetz,38
+789,NOTEWORTHY,38
+790,New York City FC,38
+791,Congressional District,38
+792,Penylvania,38
+793,Atlantic County,38
+794,Medford,38
+795,T62,38
+796,South Philly’s,38
+797,Nola,38
+798,Paulina,38
+799,Ky.,38
+800,Fairfax County,38
+801,Society Hill,38
+802,Collingswood,38
+803,Ore.,38
+804,the School District,38
+805,Conshohocken,38
+806,Trivia,38
+807,Korea,37
+808,Smithsburg,37
+809,Hudson,37
+810,Riverside,37
+811,Marlton,37
+812,Logan,37
+813,Irma,37
+814,Valley Forge,37
+815,Chestnut Hill Hospital,37
+816,New Haven,37
+817,Princeton,37
+818,Somerset,37
+819,Croatia,37
+820,Mich.,37
+821,Uganda,37
+822,Asbury Park,37
+823,Poconos,36
+824,Capitol Hill,36
+825,the Waterfall Room,36
+826,Torah,36
+827,30th Street Station,36
+828,the Colorado River,36
+829,El Universal,36
+830,Astros,36
+831,Southwest Philly,36
+832,Berkeley,36
+833,Teresa,36
+834,Austria,36
+835,Philadelphia City,35
+836,the Mullica River,35
+837,Reno,35
+838,Des Moines,35
+839,Travis County,35
+840,Mo.,35
+841,Hale Street,35
+842,Ivanka,35
+843,Venice,35
+844,earth,35
+845,Myanmar,35
+846,Egg Harbor Township,35
+847,Liverpool,35
+848,Temple,35
+849,Wissahickon Trail,34
+850,Costa,34
+851,premises,34
+852,Philadelphia City Hall,34
+853,the Schuylkill River Trail,34
+854,Western Pennsylvania,34
+855,the Kimmel Center,34
+856,Christian Street,34
+857,Acme,34
+858,Iceland,34
+859,Lehight County,34
+860,G7,34
+861,Cobbs Creek Park,34
+862,Gainesville,34
+863,Stanley Cup,34
+864,Erie,34
+865,Flint,34
+866,Sandberg,34
+867,AUSTIN,34
+868,Newtown Square,34
+869,Northampton County,34
+870,Braddock,34
+871,the Pacific Ocean,34
+872,Green Bay,34
+873,Cristina,34
+874,Filadelfia,33
+875,WR,33
+876,B.S.,33
+877,FedEx,33
+878,Ala.,33
+879,Sheremetyevo Airport,33
+880,Middletown,33
+881,Tacoma,33
+882,Donkey Kong,33
+883,Times Square,33
+884,Belichick,33
+885,Stockholm,33
+886,Kern County,33
+887,Leo,33
+888,the west coast,33
+889,the Center City District,33
+890,Santa Barbara,33
+891,Western Europe,33
+892,Akron,33
+893,Petro,33
+894,Syracuse,33
+895,the Philadelphia Museum of Art,33
+896,Juniata Park,33
+897,Old City’s,33
+898,Hustle,32
+899,Davos,32
+900,3rd Street,32
+901,Mullica Hill,32
+902,Lakewood,32
+903,DOVER,32
+904,County,32
+905,San Luis,32
+906,San francisco,32
+907,the Hall of Fame,32
+908,Wyalusing Avenue,32
+909,Philadelphia County,32
+910,Yosemite National Park,32
+911,Martinez,32
+912,Miss.,32
+913,the Philadelphia International Airport,32
+914,Southampton,32
+915,M.D.,32
+916,Libra,32
+917,Washington Township,32
+918,Center City’s,31
+919,San Francisco's,31
+920,NC,31
+921,Palestine,31
+922,11th Street,31
+923,Bastille Day,31
+924,Uvalde County,31
+925,Kharkiv,31
+926,Charlottesville,31
+927,Pennsylvania Avenue,31
+928,Roxborough,31
+929,Hard Rock,31
+930,Sea Isle,31
+931,El Chapo',31
+932,Woodland,31
+933,Allegheny Avenue,31
+934,Dewey Beach,31
+935,Khimki,31
+936,Huntingdon Valley,31
+937,Irving,31
+938,Baltimore Avenue,31
+939,Baja California,31
+940,Fort Myers,31
+941,Fairmount Avenue,31
+942,Market Streets,31
+943,Pensylvania,31
+944,Selena,30
+945,Warrington,30
+946,Virginia Beach,30
+947,Nataly,30
+948,Middle East,30
+949,Arden,30
+950,Village,30
+951,Darby,30
+952,West Indiana Avenue,30
+953,Race Street,30
+954,Southeast Asia,30
+955,Gauthier,30
+956,Bustleton Avenue,30
+957,Wissinoming,30
+958,Nara,30
+959,Glassboro,30
+960,Spring Garden Street,30
+961,Rafael,30
+962,Darien,30
+963,Colo.,30
+964,Melbourne,30
+965,the Central Valley,30
+966,Coulter Street,30
+967,Lincoln Drive,30
+968,Montgomery County District,30
+969,Kingsessing,29
+970,the Delaware Bay,29
+971,Wuhan,29
+972,Colorado Springs,29
+973,the Broad Street Line,29
+974,the Caribbean Sea,29
+975,McCowan,29
+976,Fashion District Philadelphia,29
+977,the Bay Area,29
+978,Corona,29
+979,Guerrero,29
+980,​​of,29
+981,Jada,29
+982,Ventura,29
+983,Center City District,29
+984,Snacktime,29
+985,Brewerytown,29
+986,Bingo,29
+987,Grays Ferry Avenue,29
+988,Arenado,29
+989,New York City’s,29
+990,Aurora,29
+991,Quakertown,29
+992,Horsham,28
+993,Dublin,28
+994,Grays Ferry,28
+995,West Bank,28
+996,Ricky,28
+997,Nielsen,28
+998,St. Paul,28
+999,Verizon,28
+1000,S.C.,28
+1001,Foles,28
+1002,Ángela,28
+1003,Longport,28
+1004,Lemoine,28
+1005,the Miami Heat,28
+1006,San Marcos,28
+1007,Machado,28
+1008,Youth Awards,28
+1009,Sussex County,28
+1010,North 13th Street,28
+1011,Bustleton,28
+1012,WEST CHESTER,28
+1013,Shamong,28
+1014,Grand Rapids,28
+1015,Cheddar,28
+1016,American Street,27
+1017,Cameroon,27
+1018,Woodbury,27
+1019,Camp Hill,27
+1020,Jeddah,27
+1021,Easton,27
+1022,JD,27
+1023,Target,27
+1024,Insomnia Cookies,27
+1025,Burrow,27
+1026,Naples,27
+1027,Allegheny,27
+1028,the Vine Street Expressway,27
+1029,Love Park,27
+1030,Fayetteville,27
+1031,Kelly Drive,27
+1032,Logan Circle,27
+1033,the Wild West,27
+1034,Gloria,27
+1035,Brownsville,27
+1036,Asomugha,27
+1037,the Event Center,27
+1038,Daytona Beach,27
+1039,Boulder,27
+1040,Homolka,27
+1041,5th Avenue,27
+1042,Miami International Airport,27
+1043,Donbás,27
+1044,Oregon Avenue,27
+1045,Bridesburg,27
+1046,Homelander,27
+1047,Monaco,27
+1048,Indigenous,27
+1049,New York City's,27
+1050,Strickland,26
+1051,Margate,26
+1052,Powerball,26
+1053,Northern Ireland,26
+1054,Johnstown,26
+1055,Shannon,26
+1056,Hamburg,26
+1057,Kamara,26
+1058,Scottsdale,26
+1059,Alphabet,26
+1060,Evita,26
+1061,West Deptford,26
+1062,BG,26
+1063,Ind.,26
+1064,Bridgeton,26
+1065,Guyana,26
+1066,The City,26
+1067,Sutherland Springs,26
+1068,West Kensington,26
+1069,Central Avenue,26
+1070,Bethany Beach,26
+1071,Heriberto,26
+1072,Zendaya,26
+1073,the Eastern Conference,26
+1074,LAS VEGAS,26
+1075,Constanza,26
+1076,Tyrese Maxey,26
+1077,Metro Atlanta,26
+1078,the NL East) Philadelphia,26
+1079,POTTSTOWN,26
+1080,Collegeville,26
+1081,East Stroudsburg,26
+1082,Nogales,26
+1083,the Brooklyn Nets,26
+1084,Cape Cod,26
+1085,Route 1,26
+1086,Saturdays,26
+1087,NEW JERSEY,26
+1088,Rio de Janeiro,25
+1089,Yankee Stadium,25
+1090,Oklahoma City Thunder,25
+1091,Fairfield,25
+1092,Kissimmee,25
+1093,Lawrence,25
+1094,Geneva,25
+1095,Cherry Street,25
+1096,Washington Square West,25
+1097,Ann Arbor,25
+1098,Querétaro,25
+1099,Chihuahua,25
+1100,Rwanda,25
+1101,Filbert Street,25
+1102,Fiji,25
+1103,Agnes,25
+1104,Washington County,25
+1105,Mecca,25
+1106,Pereira,25
+1107,Fanta,25
+1108,Seraphina,25
+1109,Annapolis,25
+1110,South Jersey’s,25
+1111,the east coast,25
+1112,Singh,25
+1113,Sampson,25
+1114,Luzerne County,25
+1115,Wrestlemania,25
+1116,Bellmawr,25
+1117,Schuylkill County,25
+1118,Macron,25
+1119,LinkedIn,25
+1120,Southeast,25
+1121,2nd Street,25
+1122,Carbon County,25
+1123,Bumble,25
+1124,Franklin Field,25
+1125,Ithaca,25
+1126,San Mateo,25
+1127,Berks,25
+1128,Ocean County,24
+1129,Belinda,24
+1130,OCEAN CITY,24
+1131,Clarkston,24
+1132,50th Street,24
+1133,Beaver County,24
+1134,Duncanville,24
+1135,Bexar County,24
+1136,United Arab Emirates,24
+1137,Crittenden Street,24
+1138,Drexel Hill,24
+1139,A.C.,24
+1140,Pinellas County,24
+1141,Concord,24
+1142,Vereen,24
+1143,Fremont,24
+1144,Pennsauken,24
+1145,Sina,24
+1146,Radnor Township,24
+1147,Torresdale Avenue,24
+1148,Sansom Street,24
+1149,Little Rock,24
+1150,Warren,24
+1151,Macao,24
+1152,Gaza,24
+1153,Styles,24
+1154,NASCAR,24
+1155,Stone Harbor,24
+1156,Reva,24
+1157,Greensboro,24
+1158,Raleight,24
+1159,Regina,24
+1160,La Villita,24
+1161,Kabul,24
+1162,Point Breeze,24
+1163,Fashion District,24
+1164,Prudente,24
+1165,NEW YORK CITY,24
+1166,Middle Township,24
+1167,Bala Cynwyd,24
+1168,I-295,24
+1169,Olivia,24
+1170,Montgomery County’s,24
+1171,Oxford,24
+1172,Nathan,24
+1173,Spruce Street,23
+1174,Center City Philadelphia,23
+1175,Passyunk Avenue,23
+1176,the Upper East Side,23
+1177,Forsythia,23
+1178,Stephenville,23
+1179,Sturgis,23
+1180,Eastern Pennsylvania,23
+1181,Independence,23
+1182,Exton,23
+1183,Baltimore County,23
+1184,McPherson Square,23
+1185,Trump,23
+1186,Donetsk,23
+1187,Vine Street,23
+1188,Johannesburg,23
+1189,Race Street Pier,23
+1190,West Fairmount Park,23
+1191,Maricopa County,23
+1192,Bridgeport,23
+1193,Prison,23
+1194,Vans,23
+1195,Linden Avenue,23
+1196,Broad Street Line,23
+1197,Pima County,23
+1198,Arredondo,23
+1199,Odufuwa,23
+1200,Birnbaum,23
+1201,Volusia County,23
+1202,Beach Haven,23
+1203,Grant Park,23
+1204,Atkinson,23
+1205,Caguas,23
+1206,Disneyland,23
+1207,Beatles,23
+1208,Zacatecas,23
+1209,Billy Ocean,23
+1210,Wissahickon Valley Park,23
+1211,Puerto Rico’s,23
+1212,Music,23
+1213,D-Va.,23
+1214,Coney Island,23
+1215,Cali,23
+1216,the William Way LGBT Community Center,23
+1217,Mall,23
+1218,Park,23
+1219,Carolinas,23
+1220,Guanajuato,23
+1221,Grant Avenue,23
+1222,Nepal,22
+1223,Serbia,22
+1224,Wissahickon Avenue,22
+1225,the Atlanta Braves,22
+1226,the Southern District,22
+1227,Concacaf,22
+1228,Tyler,22
+1229,Bucks County’s,22
+1230,Oldenburg,22
+1231,Bananas,22
+1232,Subway,22
+1233,FLORIDA,22
+1234,30th Street,22
+1235,Bethany,22
+1236,Bristol Street,22
+1237,Santa Cruz,22
+1238,Eagle Pass,22
+1239,Napa County,22
+1240,the Schuylkill Expressway,22
+1241,Cooperstown,22
+1242,Cannes,22
+1243,Czechoslovakia,22
+1244,Diamondbacks,22
+1245,Westmoreland County,22
+1246,Lollapalooza,22
+1247,Marina,22
+1248,Interstate 95,22
+1249,Troiano,22
+1250,Sara,22
+1251,Fort Washington,22
+1252,Shuri,22
+1253,East Rutherford,22
+1254,Madness,22
+1255,Maskwacis,22
+1256,Juniata,22
+1257,Shabazz,22
+1258,Boise,22
+1259,KYIV,22
+1260,Verizon Hall,22
+1261,West Mt. Airy,22
+1262,Pamplona,22
+1263,Alameda County,22
+1264,Durham,22
+1265,SS,22
+1266,Lower Township,22
+1267,Paoli,22
+1268,42nd Street,21
+1269,Chabad,21
+1270,Yolanda,21
+1271,Palm Beach,21
+1272,Quinn Sullivan,21
+1273,Process,21
+1274,Mountain View,21
+1275,MA,21
+1276,washington,21
+1277,San Salvador,21
+1278,Chad,21
+1279,Hemberger Street,21
+1280,8th Street,21
+1281,the State of Mexico,21
+1282,Hall,21
+1283,West Philly’s,21
+1284,Dallas Love Field,21
+1285,Belmont Avenue,21
+1286,Washington Heights,21
+1287,East Tioga Street,21
+1288,Roe,21
+1289,East Africa,21
+1290,Heathrow,21
+1291,Monroe County,21
+1292,Santa,21
+1293,Munich,21
+1294,Los Angeles Dodgers,21
+1295,Klaproth,21
+1296,Pine Street,21
+1297,Breakfast,21
+1298,the Avenue of the Arts,21
+1299,Mina,21
+1300,the Miami International Airport,21
+1301,Bosnia,21
+1302,Bartram’s Garden,21
+1303,Coughlin,21
+1304,Belle,21
+1305,Weston,21
+1306,Yantakhao,21
+1307,Virginia Tech,21
+1308,Fulton,21
+1309,Heights,21
+1310,Paloma,21
+1311,East London,20
+1312,Brittney,20
+1313,West Philadelphia’s,20
+1314,the Atlantic City Convention Center,20
+1315,Mobile,20
+1316,Namor,20
+1317,Osterholm,20
+1318,Lake,20
+1319,Jefferson County,20
+1320,mango,20
+1321,OBDII,20
+1322,Greenwich Village,20
+1323,Tamary,20
+1324,Toms River,20
+1325,Vierling,20
+1326,Ocala,20
+1327,Santa Rosa,20
+1328,El Alfa,20
+1329,Ozark,20
+1330,Gloucester Township,20
+1331,the Cherry Street Pier,20
+1332,Crescentville,20
+1333,Murphy,20
+1334,Mount Airy,20
+1335,Foxborough,20
+1336,Carlin,20
+1337,Gastón Heredia,20
+1338,Starkey,20
+1339,Angola,20
+1340,Healy,20
+1341,North Carolina’s,20
+1342,Lansdowne,20
+1343,Limbo,20
+1344,Highland Avenue,20
+1345,Tower,20
+1346,Sievierodonetsk,20
+1347,Mullica,20
+1348,Thunder,20
+1349,Kingery,20
+1350,Salzburg,20
+1351,Conklin,20
+1352,Valley Green Road,20
+1353,Frankfurt,20
+1354,Trail,20
+1355,Osteria,20
+1356,Kyrie,20
+1357,St. Joe's,20
+1358,Benito,20
+1359,Erdenheim,20
+1360,SOUTH JERSEY,20
+1361,Naegleria,20
+1362,Bridge Street,20
+1363,Weidl,20
+1364,Curtin,20
+1365,pre-K,20
+1366,colonies,20
+1367,Kent County,20
+1368,The Dominican Republic,20
+1369,Coahuila,20
+1370,Rocky,20
+1371,Key West,20
+1372,East Mount Airy,20
+1373,Sundheim,20
+1374,Oliver,20
+1375,Osuna,20
+1376,Erie Avenue,20
+1377,Tyreek Hill,20
+1378,Aston,20
+1379,Abington,20
+1380,Gwinnett County,19
+1381,Mendon,19
+1382,South Beach,19
+1383,Tommee,19
+1384,Memorial Day Weekend,19
+1385,Sao Paulo,19
+1386,Wake County,19
+1387,Msgr,19
+1388,Historic District,19
+1389,Falls Township,19
+1390,Route 206,19
+1391,Tunisia,19
+1392,Kickstarter,19
+1393,Willingboro,19
+1394,Ashland,19
+1395,City Hall’s,19
+1396,The Same Time,19
+1397,Manchester,19
+1398,Norris Square Park,19
+1399,Medela,19
+1400,Havertown,19
+1401,Buenos Aires,19
+1402,Smyrna,19
+1403,Uzma,19
+1404,Kaysville,19
+1405,Kuwait,19
+1406,Pattison Avenue,19
+1407,Keaton Beach,19
+1408,Northern Virginia,19
+1409,Kazakhstan,19
+1410,Rancho Cordova,19
+1411,North Shore Congregation,19
+1412,Nev.,19
+1413,Redfin,19
+1414,West Cape May,19
+1415,Levittown,19
+1416,Okla.,19
+1417,the Hard Rock,19
+1418,Richardson,19
+1419,Sharswood,19
+1420,Sheremetyevo International Airport,19
+1421,Haverford,19
+1422,San Angelo,19
+1423,the Governor of,19
+1424,Monroe,19
+1425,Creighton Street,19
+1426,Love Field Airport,19
+1427,Silver Spring,19
+1428,Kherson,19
+1429,Catalonia,19
+1430,NEWARK,19
+1431,Bay Area,19
+1432,Erie County,19
+1433,​​and,19
+1434,Griffin,19
+1435,Sudan,19
+1436,Nayarit,19
+1437,the Atlantic City Expressway,19
+1438,Hayward Field,19
+1439,Bethesda,19
+1440,Penelope,19
+1441,Whitpain Township,19
+1442,Washington Crossing,19
+1443,Estonia,19
+1444,Cerocahui,19
+1445,Reston,19
+1446,RM,19
+1447,East Fairmount Park,18
+1448,Naperville,18
+1449,Prosopagnosia,18
+1450,Hercules,18
+1451,Chestnut,18
+1452,Siberia,18
+1453,Moorestown,18
+1454,the Virgin Islands,18
+1455,Chestnut Hill’s,18
+1456,Downing Street,18
+1457,Petruchio,18
+1458,Rajapaksa,18
+1459,Central Pennsylvania,18
+1460,SAN DIEGO,18
+1461,Leon County,18
+1462,San Diego’s,18
+1463,New Jersey Devils,18
+1464,Western Africa,18
+1465,Plymouth,18
+1466,Lagos,18
+1467,the Rose Garden,18
+1468,Pina,18
+1469,Manayunk,18
+1470,the Democratic Republic of the,18
+1471,Floyd,18
+1472,Angelica,18
+1473,Haigler,18
+1474,6th Street,18
+1475,E.U.,18
+1476,Dresden,18
+1477,Paddy,18
+1478,Wildwood Crest,18
+1479,Monmouth,18
+1480,Orlando City,18
+1481,Caln Township,18
+1482,the Mediterranean Sea,18
+1483,Juan,18
+1484,Dauphin County,18
+1485,Peoria,18
+1486,Tolle,18
+1487,Ridley Creek State Park,18
+1488,Fifth Avenue,18
+1489,Morena,18
+1490,Ariz.,18
+1491,Walnut Streets,18
+1492,Salem County,18
+1493,the Civic Center,18
+1494,Writes,18
+1495,Wyo.,18
+1496,Bremerton,18
+1497,Petco Park,18
+1498,St,18
+1499,Police District,18
+1500,the Chesapeake Bay,18
+1501,West Side,18
+1502,Senegal,18
+1503,Halladay,18
+1504,Bali,18
+1505,Maddon,18
+1506,The White House,18
+1507,Grammys,18
+1508,Puerto Vallarta,18
+1509,Ioniq,18
+1510,Haddon Township,18
+1511,Lehight Valley,18
+1512,mulch,18
+1513,Jefferson Hospital,18
+1514,the Gulf Coast,18
+1515,the Northern District,18
+1516,Madison Avenue,18
+1517,Kenobi,18
+1518,the Wawa Welcome America,18
+1519,the Whitman Library,17
+1520,Pocono,17
+1521,Huixtla,17
+1522,Citi,17
+1523,Tanzania,17
+1524,the Taiwan Strait,17
+1525,the United States Coast Guard,17
+1526,the Rio Grande,17
+1527,Paola,17
+1528,Martínez,17
+1529,Cancer,17
+1530,ISLE CITY,17
+1531,Fresno County,17
+1532,Clearfield,17
+1533,Santa Clarita,17
+1534,Mendoza,17
+1535,New Brunswick,17
+1536,Betts,17
+1537,Citi Field,17
+1538,Middletown Township,17
+1539,Pennsport,17
+1540,Manchester City,17
+1541,North Face,17
+1542,DR,17
+1543,Sicklerville,17
+1544,North Africa,17
+1545,the Los Angeles County,17
+1546,61st Street,17
+1547,Wallace,17
+1548,Humboldt Park,17
+1549,Chambersburg,17
+1550,New Jersey Monitor,17
+1551,El Bronx,17
+1552,Haddon Heights,17
+1553,Moxi,17
+1554,Del Rio,17
+1555,Greenville,17
+1556,United,17
+1557,Bunning,17
+1558,kimchi,17
+1559,Boyle Heights,17
+1560,San Ysidro,17
+1561,SALT LAKE CITY,17
+1562,Icon Park,17
+1563,Eastwick,17
+1564,Absecon,17
+1565,North Broad,17
+1566,Zimbabwe,17
+1567,Grenada,17
+1568,The School District of Philadelphia,17
+1569,Diamond Street,17
+1570,Prussia,17
+1571,San Bernardino County,17
+1572,the Ben Franklin Bridge,17
+1573,the Rodin Museum,17
+1574,Doha,17
+1575,Radnor,17
+1576,WILDWOOD,17
+1577,west Africa,17
+1578,Melania,17
+1579,Zelenska,17
+1580,Chelten Avenue,17
+1581,Adtalem,17
+1582,Aramingo Avenue,17
+1583,the Czech Republic,17
+1584,mid-Atlantic,17
+1585,Collingdale,17
+1586,Rockville,17
+1587,Bordentown,17
+1588,Phanatic,17
+1589,Forbidden Drive,17
+1590,turkey,16
+1591,Berwyn,16
+1592,Bergen County,16
+1593,Limerick,16
+1594,Pirates,16
+1595,Appalachia,16
+1596,Calpurnia,16
+1597,San Pedro,16
+1598,Quito,16
+1599,Huntington Beach,16
+1600,Pleasantville,16
+1601,NEW ORLEANS,16
+1602,Carver Street,16
+1603,the International Space Station,16
+1604,Carlisle,16
+1605,Cornell,16
+1606,the Mexico Consulate,16
+1607,Frida,16
+1608,Alps,16
+1609,Washington State,16
+1610,Sloviansk,16
+1611,the Yucatan Peninsula,16
+1612,Mount Holly,16
+1613,Windsor Castle,16
+1614,Cheltenham,16
+1615,the Roosevelt Room,16
+1616,Laguna Woods,16
+1617,Mantua,16
+1618,Khost,16
+1619,Lemon,16
+1620,Knoxville,16
+1621,mosques,16
+1622,Jennersville,16
+1623,Fanckley,16
+1624,68th Avenue,16
+1625,Augusta,16
+1626,West Chester University,16
+1627,Waititi,16
+1628,Uhre,16
+1629,Manor,16
+1630,Winston,16
+1631,Tarrant County,16
+1632,Patagonia,16
+1633,Mérida,16
+1634,Soviet Union,16
+1635,San Diego County,16
+1636,ARLINGTON,16
+1637,Midtown Village,16
+1638,South Sudan,16
+1639,Wissahickon Creek,16
+1640,Sun,16
+1641,Escobar,16
+1642,B.A.,16
+1643,Eden,16
+1644,Delaware Bay,16
+1645,the Yosemite National Park,16
+1646,Haddonfield,16
+1647,the Schuylkill Center for Environmental Education,16
+1648,Kumar,16
+1649,Lawrenceville,16
+1650,South Philly Barbacoa,16
+1651,Topps,16
+1652,Morris Street,16
+1653,AAPI,16
+1654,Sondheim,16
+1655,McCormick,16
+1656,Nice,16
+1657,The Mann Center,16
+1658,The United Kingdom,16
+1659,Harris,16
+1660,BB,16
+1661,Annabelle,16
+1662,Strong,16
+1663,the Metropolitan Area,16
+1664,The Golden State Warriors,16
+1665,Upper East Side,16
+1666,Lakeland,16
+1667,Benjamin Franklin Parkway,16
+1668,Chestnut Streets,16
+1669,Rashaan Vereen,16
+1670,Marietta,16
+1671,Mill Creek,16
+1672,8 North America,16
+1673,Instance,16
+1674,Aaliyah,16
+1675,REHOBOTH BEACH,16
+1676,Ayala,16
+1677,Laurel,16
+1678,Hong Kong's,16
+1679,Glendale,15
+1680,"Washington, DC",15
+1681,Anything,15
+1682,Neb.,15
+1683,Norfolk,15
+1684,Round 1,15
+1685,Ripley,15
+1686,NASHVILLE,15
+1687,Revolutionary,15
+1688,SACRAMENTO,15
+1689,Towson,15
+1690,Roseville,15
+1691,Shreveport,15
+1692,Awbury,15
+1693,the Schuylkill Center,15
+1694,Yorktown,15
+1695,Hoag,15
+1696,Oregon State,15
+1697,Church Street,15
+1698,Lake County State's,15
+1699,Greenwood,15
+1700,Indiana Avenue,15
+1701,Wichita,15
+1702,Loughran,15
+1703,Lviv,15
+1704,Port Royal Avenue,15
+1705,Jefferson Avenue,15
+1706,Jayland,15
+1707,Cancun,15
+1708,Wawona,15
+1709,CHERRY HILL,15
+1710,Raphy Pina,15
+1711,Rotunda,15
+1712,Palo Alto,15
+1713,UC,15
+1714,Hatboro,15
+1715,Lisbon,15
+1716,City Avenue,15
+1717,Salsa,15
+1718,San Jacinto,15
+1719,Bogota,15
+1720,Wayne County,15
+1721,Brogdon,15
+1722,Hillsborough County,15
+1723,Evusheld,15
+1724,the International Airport,15
+1725,the Los Angeles Angels,15
+1726,Walnut St.,15
+1727,East Passyunk’s,15
+1728,West Conshohocken,15
+1729,BENSALEM,15
+1730,Fogelsville,15
+1731,West Erie Avenue,15
+1732,the Far Northeast,15
+1733,Familia,15
+1734,Dallas Love Field Airport,15
+1735,Yoruba,15
+1736,San Francisco’s,15
+1737,Cedar Park,15
+1738,the United States’,15
+1739,Lee County,15
+1740,West Valley City,15
+1741,Wash.,15
+1742,Narberth,15
+1743,Djibouti,15
+1744,the Russian Federation,15
+1745,RICHMOND,15
+1746,Decatur,15
+1747,Bradenton,15
+1748,Benja,15
+1749,East Norriton,15
+1750,East Kensington,15
+1751,South Street’s,15
+1752,Beach,15
+1753,Libya,15
+1754,Osage Avenue,15
+1755,Lake Erie,15
+1756,Marcell Ozuna,15
+1757,Jayce,15
+1758,Lauren,15
+1759,Longwood,15
+1760,Redwood City,15
+1761,Luhansk province,15
+1762,Szczecina,15
+1763,Hubble,15
+1764,El Dorado,15
+1765,Schoenfield,15
+1766,Main Line,15
+1767,Winston-Salem,15
+1768,CALIFORNIA,15
+1769,Pacific Avenue,15
+1770,South Philadelphia’s,15
+1771,the Convention Center,15
+1772,Medford Lakes,15
+1773,Yellowstone National Park,15
+1774,Bella Vista,15
+1775,Suffolk County,15
+1776,Bristol,15
+1777,Central,15
+1778,South Korea's,15
+1779,Haltom City,15
+1780,FaZe,15
+1781,Chapel Hill,15
+1782,Route 542,15
+1783,Sarajevo,15
+1784,Barbra Streisand,15
+1785,Harrah,14
+1786,Edgewater Park,14
+1787,Midland,14
+1788,Eugene,14
+1789,Delaware County District,14
+1790,Arcadia,14
+1791,Harrington,14
+1792,Neselovskyi,14
+1793,Holmesburg,14
+1794,Belgrade,14
+1795,Hazleton,14
+1796,Malibu,14
+1797,Cristiano Ronaldo,14
+1798,Julissia,14
+1799,Trinidad,14
+1800,Alberto,14
+1801,Kadri,14
+1802,Chattanooga,14
+1803,Coastal Highway,14
+1804,9th Street,14
+1805,West Hollywood,14
+1806,Our City,14
+1807,West Mount Airy,14
+1808,Polk County,14
+1809,Plymouth Meeting,14
+1810,Jefferson Station,14
+1811,the Susquehanna River,14
+1812,Florence,14
+1813,Heathrow Airport,14
+1814,Galloway Township,14
+1815,Hearing,14
+1816,LaForte,14
+1817,Cairo,14
+1818,the Fairmount Water Works,14
+1819,Golden State,14
+1820,Karakung,14
+1821,Monmouth County,14
+1822,Colima,14
+1823,Shannon Crawford,14
+1824,Stenton,14
+1825,Western Virginia,14
+1826,Univision34 Los Angeles,14
+1827,the AL West,14
+1828,Center City Sips,14
+1829,101,14
+1830,Andrews Avenue,14
+1831,Williamstown,14
+1832,Warsaw,14
+1833,Furkan Korkmaz,14
+1834,Museum,14
+1835,Los Angeles Angels,14
+1836,Sharpe,14
+1837,Upland,14
+1838,Queer,14
+1839,Rising Sun Avenue,14
+1840,the Statue of Liberty,14
+1841,Market Square,14
+1842,Deptford,14
+1843,Newton,14
+1844,Westmoreland Street,14
+1845,Amman,14
+1846,Aspen,14
+1847,Laos,14
+1848,the Democratic Republic of Congo,14
+1849,Marion County,14
+1850,Washington Square,14
+1851,Magnus,14
+1852,Vogue,14
+1853,Chico,14
+1854,Chalfont,14
+1855,Yolo County,14
+1856,Hoboken,14
+1857,Centerville,14
+1858,Verismo,14
+1859,Aquarium,14
+1860,Gaithersburg,14
+1861,Vernon,14
+1862,Pleasant Beach,14
+1863,Bloomberg,14
+1864,Mount Laurel,14
+1865,Newport,14
+1866,Septa,14
+1867,Captain America,14
+1868,Old City's,14
+1869,Alexandria City,14
+1870,Brooklyn Bowl,14
+1871,VATICAN CITY,14
+1872,Debanhi Escobar,14
+1873,Surf City,14
+1874,Lucas,14
+1875,Oxford Street,14
+1876,Fitler Square,14
+1877,Lexington Avenue,14
+1878,Bogotá,14
+1879,Blacks,14
+1880,the Cooper River,14
+1881,Darío,14
+1882,Claymont,14
+1883,Jurassic Park,14
+1884,Patton,14
+1885,Wrigley Field,14
+1886,the Pacific Northwest,14
+1887,Tegucigalpa,14
+1888,Fairless Hills,14
+1889,Monster,14
+1890,the Rose Bowl,14
+1891,Nirvana,14
+1892,Town Square,14
+1893,Lehigh Avenue,14
+1894,Vanya,14
+1895,Osaka,14
+1896,Upper Roxborough,14
+1897,Vet,14
+1898,Mingo,13
+1899,Kane County,13
+1900,Collin County,13
+1901,Clem,13
+1902,Malvern Prep,13
+1903,Pleasant Hill Park,13
+1904,North Wales,13
+1905,Interstate 676,13
+1906,Independence National Historical Park,13
+1907,Union,13
+1908,Pacino,13
+1909,Solano County,13
+1910,Rosarito,13
+1911,San Lorenzo,13
+1912,Houghton Street,13
+1913,Parnas,13
+1914,South Philly Meadows,13
+1915,Superluna,13
+1916,Bilbao,13
+1917,HOLLYWOOD,13
+1918,Elmwood Park,13
+1919,Norris Square,13
+1920,R.I.,13
+1921,Sea,13
+1922,South Side,13
+1923,Union City,13
+1924,21st Street,13
+1925,Jimenez,13
+1926,Peninsula,13
+1927,Burnham,13
+1928,Oxford Avenue,13
+1929,Balch Springs,13
+1930,Hilton,13
+1931,Rikers Island,13
+1932,Wonderland,13
+1933,Nodal,13
+1934,Binghamton,13
+1935,South Kensington,13
+1936,Marchonharrisburg,13
+1937,the Brennan Center for Justice,13
+1938,Discord,13
+1939,the Hudson Valley,13
+1940,Verrica,13
+1941,Seville,13
+1942,Valley Township,13
+1943,North Beach,13
+1944,Fort Bragg,13
+1945,Hatfield Township,13
+1946,Magisterial District,13
+1947,Round Rock,13
+1948,Bar Hygge,13
+1949,Manor Township,13
+1950,the Rosa de Guadalupe,13
+1951,Judiciary,13
+1952,3rd District,13
+1953,Shesterkin,13
+1954,Antarctica,13
+1955,Mansfield,13
+1956,Zaire,13
+1957,CF,13
+1958,Cape,13
+1959,Byrne Plaza,13
+1960,Gillespie,13
+1961,the Brooklyn Bridge,13
+1962,Alamo,13
+1963,MOSCOW,13
+1964,North Texas,13
+1965,Salt Lake,13
+1966,the Phillie Phanatic,13
+1967,Atlantic Avenue,13
+1968,the Philadelphia Orchestra,13
+1969,Gloucester,13
+1970,Amador County,13
+1971,the Stonewall Inn,13
+1972,Beatriz,13
+1973,discos,13
+1974,Trang,13
+1975,Estrada,13
+1976,Fifth Street,13
+1977,Bahrain,13
+1978,Turkmenistan,13
+1979,Sonoma,13
+1980,Coors Field,13
+1981,IOWA,13
+1982,Obama,13
+1983,Dekalb,13
+1984,West Reading,13
+1985,Cedar,13
+1986,Christiana,13
+1987,20th Street,13
+1988,Tuskegee,13
+1989,Adionion,13
+1990,Lower State,13
+1991,Adams Avenue,13
+1992,San Mateo County,13
+1993,Second Street,13
+1994,Clearwater,13
+1995,University City District,13
+1996,Steph,13
+1997,Adams County,13
+1998,Portofino,13
+1999,IL,13
+2000,Welsh Road,13
+2001,Pocono Raceway,13
+2002,the Dnieper River,13
+2003,Bar-Levy,13
+2004,the South Street Bridge,13
+2005,anesthesia,13
+2006,Hale,13
+2007,West Chester’s,13
+2008,Butts,13
+2009,the Mayo Clinic,13
+2010,Mideast,13
+2011,Lake Tahoe,13
+2012,Milford,13
+2013,Morelia,13
+2014,Burrows,13
+2015,Voorhees,13
+2016,Montgomery,13
+2017,Maricopa,13
+2018,Rossi,13
+2019,Latvia,13
+2020,Nordic,13
+2021,Berríos,13
+2022,the Prudential Center,13
+2023,Newark Liberty International Airport,13
+2024,North Chicago,13
+2025,Egg Harbor Road,13
+2026,Contino,13
+2027,North Port,13
+2028,Kanye,13
+2029,Las Vegas Raiders,13
+2030,PHOENIX,13
+2031,McAllen,13
+2032,america,12
+2033,Pederson,12
+2034,Market East,12
+2035,North West,12
+2036,Williamson County,12
+2037,Rio Grande,12
+2038,Wimbledon,12
+2039,Vasy,12
+2040,Brewers,12
+2041,Comcast,12
+2042,Kings Highway,12
+2043,Sports,12
+2044,Riverside Drive,12
+2045,Lyles,12
+2046,Interstate 76,12
+2047,Shrew,12
+2048,San Martín,12
+2049,Pasco County,12
+2050,Delran,12
+2051,Suburban Square,12
+2052,Tamaulipas,12
+2053,Butler Avenue,12
+2054,Clarissa Molina,12
+2055,Van Nuys,12
+2056,Southeast Pennsylvania,12
+2057,Brink,12
+2058,the Strip District,12
+2059,Интернете,12
+2060,Inspire,12
+2061,Troy,12
+2062,Howard County,12
+2063,Westminster,12
+2064,Rosenbach,12
+2065,the José Miguel Agrelot Coliseum,12
+2066,Anchorage,12
+2067,MEXICO CITY,12
+2068,West Passyunk,12
+2069,Sephardic,12
+2070,the Ocean Drive,12
+2071,Tempe,12
+2072,Center City's,12
+2073,East Oak Lane,12
+2074,Spring Hill,12
+2075,Key Biscayne,12
+2076,Lawnside,12
+2077,17th Street,12
+2078,THE UNITED STATES,12
+2079,San Francisco Bay,12
+2080,Goodnaw Street,12
+2081,Mekong,12
+2082,Hurley,12
+2083,Landover,12
+2084,Stenton Avenue,12
+2085,Lugansk,12
+2086,Morgantown,12
+2087,Grid,12
+2088,12th Street,12
+2089,5th District,12
+2090,Tvynovelas,12
+2091,Balkans,12
+2092,the South Philadelphia Stadium District,12
+2093,Rhawn Street,12
+2094,Michigan Avenue,12
+2095,Haywood,12
+2096,Wilkes,12
+2097,West Nile Virus,12
+2098,Adela,12
+2099,UConn,12
+2100,Main Street Vegan Academy,12
+2101,43rd Street,12
+2102,New York State Rifle,12
+2103,SPRINGFIELD,12
+2104,Hiroshima,12
+2105,Bears,12
+2106,NORRISTOWN,12
+2107,Bucs,12
+2108,Hernando County,12
+2109,Pacific Islander,12
+2110,Charania,12
+2111,College,12
+2112,North Carolina's,12
+2113,Jeter,12
+2114,Seville Street,12
+2115,Broad + Liberty,12
+2116,ILLINOIS,12
+2117,Vikki,12
+2118,Chester County District,12
+2119,Central and South America,12
+2120,West Chelten Avenue,12
+2121,University Park,12
+2122,Island,12
+2123,Nevada County,12
+2124,West Lehigh Avenue,12
+2125,Jackson Street,12
+2126,Plainfield,12
+2127,Kan.,12
+2128,La.,12
+2129,Vincent,12
+2130,Southern New Jersey,12
+2131,Roosevelt Mall The Roosevelt Mall Flea Market,12
+2132,Hermosillo,12
+2133,Borick,12
+2134,the Bok Building,12
+2135,Estelle,12
+2136,Mount Vernon,12
+2137,Orange,12
+2138,Albrecht,12
+2139,Joseph,12
+2140,the Western Hemisphere,12
+2141,the Lawncrest Recreation Center,12
+2142,the American West,12
+2143,Kavanaugh,12
+2144,Delaware River Waterfront,12
+2145,the Upside Down,12
+2146,Susquehanna,12
+2147,Budapest,12
+2148,Pike County,12
+2149,Olympic jersey,12
+2150,Benner Township,12
+2151,Kyrie Irving,12
+2152,Pittsburgh City Paper,12
+2153,Houston Rockets,12
+2154,MINNEAPOLIS,12
+2155,Springside Chestnut Hill Academy,12
+2156,Belfast,12
+2157,West Passyunk Avenue,12
+2158,Ulta,12
+2159,Ormond Beach,12
+2160,Tanios,12
+2161,San Francisco Bay Area,12
+2162,Wis.,12
+2163,North Greenville,12
+2164,Baytown,12
+2165,Strahle St.,12
+2166,18th Street,12
+2167,Wissahickon Park,12
+2168,Catalina,12
+2169,Casas,12
+2170,Alvarado,12
+2171,Fox Chase,12
+2172,Andes,12
+2173,Locust Street,12
+2174,Vestavia Hills,12
+2175,Mount,12
+2176,Kulubá,12
+2177,Youthphoria,12
+2178,J Street,12
+2179,DES MOINES,12
+2180,Mariachi,12
+2181,Los Angeles International Airport,12
+2182,The Balcony Bar,12
+2183,Everytown,12
+2184,the NL West,12
+2185,Kirkland,12
+2186,Seaford,12
+2187,Colleyville,12
+2188,West Street,12
+2189,Orlando International Airport,12
+2190,Fedex,12
+2191,Casa Mexico,12
+2192,Jalen Hurts,12
+2193,Ileyemi,12
+2194,Kendall,12
+2195,Clark County,12
+2196,Nuñez,12
+2197,New Hope,12
+2198,Lido,11
+2199,Stream,11
+2200,the Northern Hemisphere,11
+2201,Asheville,11
+2202,Saskatchewan,11
+2203,Hysteria,11
+2204,Fortuna,11
+2205,LANSDALE,11
+2206,Galloway,11
+2207,Vizzy,11
+2208,6th Avenue,11
+2209,Beethoven,11
+2210,communicate,11
+2211,Lumberton,11
+2212,Atwood,11
+2213,Irving Park,11
+2214,the bay area,11
+2215,MICHIGAN,11
+2216,Deer Island,11
+2217,Azerbaijan,11
+2218,Blair County,11
+2219,Mogadishu,11
+2220,Lake Forest,11
+2221,Tuomaala,11
+2222,Los Mochis,11
+2223,Bay,11
+2224,Haaland,11
+2225,D-Pa.,11
+2226,Zyesami,11
+2227,Kenosha,11
+2228,5201 Parkside Avenue,11
+2229,Irvine,11
+2230,Chesco,11
+2231,Tristan,11
+2232,Brevard County,11
+2233,Ferrara,11
+2234,Spurs,11
+2235,Oklahoma State,11
+2236,Dodger Stadium,11
+2237,the United States District Court,11
+2238,Turin,11
+2239,the City,11
+2240,Sunshine,11
+2241,Kuemper,11
+2242,Alfa,11
+2243,San Joaquín,11
+2244,Memorial Garden,11
+2245,Korkmaz,11
+2246,Northeast Philadelphia Airport,11
+2247,Milton,11
+2248,Battle Creek,11
+2249,Eastern State,11
+2250,Culver City,11
+2251,Quebec City,11
+2252,Wiggins Park,11
+2253,the Antonivskyi Bridge,11
+2254,virginia,11
+2255,the San Fernando Valley,11
+2256,Skokie,11
+2257,Lockeford,11
+2258,Parada,11
+2259,Maroon,11
+2260,Oxford Circle,11
+2261,Opzelura,11
+2262,Virgils,11
+2263,Lambertville,11
+2264,New York Avenue,11
+2265,Lansing,11
+2266,Mirta,11
+2267,Found,11
+2268,Cliffside Park,11
+2269,Seltzerland,11
+2270,Gabriela,11
+2271,St. Hubert,11
+2272,Swarthmore,11
+2273,Osceola County,11
+2274,Black America,11
+2275,North Shore,11
+2276,East Westmoreland,11
+2277,Oscars,11
+2278,Venom,11
+2279,Cherry Hill Mall,11
+2280,West Palm Beach,11
+2281,the Houston Rockets,11
+2282,Pfizer,11
+2283,Ybor City,11
+2284,NLCS,11
+2285,Bangladesh,11
+2286,Mali,11
+2287,Beverly,11
+2288,Chestnut Hill's,11
+2289,Angelina,11
+2290,Schuylkill River,11
+2291,Wynnefield,11
+2292,Atlantic Subsea,11
+2293,Event Center,11
+2294,the Grand Canyon,11
+2295,San Antonio's,11
+2296,Pennypack Park,11
+2297,Nantucket,11
+2298,McMahon,11
+2299,Vargas,11
+2300,Pedrago,11
+2301,Tioga,11
+2302,Lake Superior,11
+2303,France Márquez,11
+2304,the Los Angeles International Airport,11
+2305,Soldier Field,11
+2306,Narberth Park,11
+2307,The Navy Yard,11
+2308,the Robb Elementary,11
+2309,Hawk Hill,11
+2310,Manatee County,11
+2311,Tournament,11
+2312,Tartt,11
+2313,Wawa Hoagie Day,11
+2314,Bloomsburg,11
+2315,Cooley,11
+2316,Antioch,11
+2317,Joliet,11
+2318,PR-189,11
+2319,Leyen,11
+2320,Cape May's,11
+2321,Hernández,11
+2322,Point Pleasant Beach,11
+2323,Fever,11
+2324,Salisbury,11
+2325,Neymar,11
+2326,The District of Columbia,11
+2327,Audubon,11
+2328,Croydon,11
+2329,Bidens,11
+2330,Berkshire,11
+2331,Cheltenham Township,11
+2332,Bolingbrook,11
+2333,Karma,11
+2334,Pennsylvania State,11
+2335,Baghdad,11
+2336,Grille,11
+2337,Bancroft,11
+2338,Clifton Heights,11
+2339,Hawthorne,11
+2340,BJay Pak,11
+2341,Colorado River,11
+2342,Cozen,11
+2343,Taipei,11
+2344,Santo Domingo,11
+2345,Huntley,11
+2346,acetaminophen,11
+2347,Kramatorsk,11
+2348,OpenAI,11
+2349,Marin,11
+2350,Richmond Street,11
+2351,FedEx Field,11
+2352,Schwenksville,11
+2353,South Carolina’s,11
+2354,Saudi Arabia’s,11
+2355,the Wilmington River,11
+2356,Chatham,11
+2357,Bourne,11
+2358,Shavuot,11
+2359,Runa,11
+2360,the Eiffel Tower,11
+2361,Chernihiv,11
+2362,Cayuga Street,11
+2363,Clayton County,11
+2364,Alaska Pilot,11
+2365,Morrisville,11
+2366,Delaware County’s,11
+2367,Morris County,11
+2368,Clarksburg,11
+2369,Central Valley,11
+2370,Fourth Street,11
+2371,Strada,11
+2372,the Roots Picnic,11
+2373,Ninth Street,11
+2374,Hidalgo County,11
+2375,San Juan Bautista,10
+2376,Vezina,10
+2377,the Starr Tours,10
+2378,Paktika,10
+2379,Olympia,10
+2380,the Edgewood Resort,10
+2381,NIAID,10
+2382,Miami Gardens,10
+2383,Philadelphia City Councilmember,10
+2384,Yucatan,10
+2385,Uptown,10
+2386,Laurel Hill Cemetery,10
+2387,Hoskins,10
+2388,Kremenchuk,10
+2389,Illuminati,10
+2390,Zurg,10
+2391,Bristol Township,10
+2392,VIRGINIA,10
+2393,Braxton,10
+2394,Route 42,10
+2395,the Ashburner Inn,10
+2396,Tiana,10
+2397,Christianize,10
+2398,San Fernando,10
+2399,Alejo,10
+2400,Pilsen,10
+2401,Wawa Station,10
+2402,wingspan,10
+2403,Edinburgh,10
+2404,TENNESSEE,10
+2405,AL,10
+2406,Maywood,10
+2407,Woodmere,10
+2408,WEST VIRGINIA,10
+2409,Boca Raton,10
+2410,SANTA MONICA,10
+2411,Inglewood,10
+2412,Huntsville,10
+2413,the Black Bottom,10
+2414,Black Sand Basin,10
+2415,vaccinia,10
+2416,Stanislaus County,10
+2417,Montgomery County Sheriff’s,10
+2418,Glencoe,10
+2419,Lorena,10
+2420,the Erie and,10
+2421,Macon,10
+2422,Montefiore Cemetery,10
+2423,the Mega Ball,10
+2424,mexico,10
+2425,the Kennedy Center,10
+2426,Karl,10
+2427,Waco,10
+2428,Misael,10
+2429,Castle County,10
+2430,Bucks,10
+2431,Discover,10
+2432,Cary,10
+2433,Hutchinson,10
+2434,Palazuelos,10
+2435,the San Francisco Bay Area,10
+2436,West Texas,10
+2437,Burlington City,10
+2438,Landgrebe,10
+2439,Golden,10
+2440,Managua,10
+2441,Elverson,10
+2442,Nassib,10
+2443,Big East,10
+2444,Chew Avenue,10
+2445,Lahaska,10
+2446,Treglia,10
+2447,PENNSYLVANIA,10
+2448,Pyongyang,10
+2449,the Kimmel Center’s,10
+2450,Gusto,10
+2451,the North Lunar,10
+2452,the Horn of Africa,10
+2453,Richboro,10
+2454,Shannon Collins,10
+2455,Chente,10
+2456,OT,10
+2457,Convention Hall,10
+2458,Upper Township,10
+2459,Lafayette,10
+2460,Happ,10
+2461,Betancourth,10
+2462,Sarnia,10
+2463,Cobb County,10
+2464,Callowhill Street,10
+2465,Dekalb County,10
+2466,Belong,10
+2467,Clayton,10
+2468,Chester Springs,10
+2469,Bedford,10
+2470,the Rio Grande Valley,10
+2471,Disney Springs,10
+2472,San Joaquín County,10
+2473,Huerta,10
+2474,Carvana,10
+2475,Pensacola,10
+2476,Chucky,10
+2477,Chester County’s,10
+2478,INDIANA,10
+2479,transphobia,10
+2480,Seabrook,10
+2481,Malaga,10
+2482,Overbrook Park,10
+2483,Taylor County,10
+2484,Rio Grande Valley,10
+2485,Sarasota County,10
+2486,Alameda,10
+2487,Wawa,10
+2488,Oman,10
+2489,Aang,10
+2490,the South Lawn,10
+2491,the City of Philadelphia’s,10
+2492,Isaiah Joe,10
+2493,Tamoun,10
+2494,Proviso East,10
+2495,Time,10
+2496,the Lehight Valley,10
+2497,Irina Baeva,10
+2498,Newcastle,10
+2499,Jeffersonville,10
+2500,Juliana,10
+2501,Oceania,10
+2502,Councilmanic District,10
+2503,San Andrés,10
+2504,Red Sea,10
+2505,Stitt,10
+2506,Chávez,10
+2507,the Independence Hall,10
+2508,the State of Texas,10
+2509,Liotta,10
+2510,Asia-Pacific,10
+2511,Straban Township,10
+2512,Valentino,10
+2513,Park Avenue,10
+2514,the South Philly Meadows,10
+2515,Naessens,10
+2516,Chester City,10
+2517,Northwest Philadelphia,10
+2518,the East River,10
+2519,Ocean City’s,10
+2520,Monument Avenue,10
+2521,Andalusia,10
+2522,Background,10
+2523,Venegas,10
+2524,Rhawnhurst,10
+2525,D-Ill.,10
+2526,Burgos,10
+2527,Hamilton,10
+2528,pergola,10
+2529,Wallingford,10
+2530,Lehighton,10
+2531,Senate District,10
+2532,Center County,10
+2533,Paradigm Paradigm Gallery + Studio,10
+2534,the Water Tower Recreation Center,10
+2535,Moore,10
+2536,Highland,10
+2537,Khalil Mack,10
+2538,Gloucester City,10
+2539,Northumberland,10
+2540,prosopagnosia,10
+2541,the United Way,10
+2542,Greene County,10
+2543,Library,10
+2544,CISA,10
+2545,D.C. United,10
+2546,Soledad,10
+2547,Saget,10
+2548,Bushwick,10
+2549,Granholm,10
+2550,San Pablo,10
+2551,Ozdemir,10
+2552,Mont.,10
+2553,Planet Earth,10
+2554,Legos,10
+2555,Sanford,10
+2556,East Village,10
+2557,Sunset Park,10
+2558,Nottingham,10
+2559,Santa Fe,10
+2560,McClinton,10
+2561,NL,10
+2562,Cooper River Park,10
+2563,New Britain,10
+2564,Tredyffrin Township,10
+2565,Ferguson,10
+2566,DeKalb County,10
+2567,Cape Coral,10
+2568,Oslo,10
+2569,Career,10
+2570,ADDITION,10
+2571,Tharpe,10
+2572,Trevose,10
+2573,Central Florida,10
+2574,Lycoming County,10
+2575,Horford,10
+2576,Upper Chichester Township,10
+2577,Affleck,10
+2578,Crown Heights,10
+2579,Soweto,10
+2580,Matteo,10
+2581,FDR Park’s,10
+2582,Samantha,10
+2583,West Grove,10
+2584,Altuve,10
+2585,the Canary Islands,10
+2586,Mejía,10
+2587,Central Africa,10
+2588,Delaware Avenue,10
+2589,Chester Avenue,10
+2590,Darby Creek,10
+2591,Operation Lone Star,10
+2592,Buist Avenue,10
+2593,Hamilton Township,9
+2594,the Atlantic Region,9
+2595,the Robb Elementary school,9
+2596,Brennan,9
+2597,Excursion Park,9
+2598,Herndon,9
+2599,miami,9
+2600,the Pittsburgh Pirates,9
+2601,PRC,9
+2602,Umbrellas,9
+2603,Busch Stadium,9
+2604,Humacao,9
+2605,USGA,9
+2606,Pennsbury,9
+2607,HONG KONG,9
+2608,the Tops Friendly Market,9
+2609,Leesburg,9
+2610,Stamford,9
+2611,Headhouse Square,9
+2612,Puerto Escondido,9
+2613,Riyadh,9
+2614,Palm Springs,9
+2615,Hampton,9
+2616,Songs,9
+2617,Beresin,9
+2618,Wesley,9
+2619,Locust,9
+2620,Bradford,9
+2621,Highland Street,9
+2622,Painted Bride,9
+2623,BlackStar,9
+2624,the Duncanville Fieldhouse,9
+2625,Upper Macungie Township,9
+2626,the Center City,9
+2627,Pasadena Road,9
+2628,Harrison Township,9
+2629,Bervell,9
+2630,the North Carolina,9
+2631,Buchanan County,9
+2632,Seagulls,9
+2633,Healthy Garden Cafe,9
+2634,Haddon Avenue,9
+2635,Bruen,9
+2636,Lisichansk,9
+2637,Eliana,9
+2638,Appleton,9
+2639,Montecito,9
+2640,Killing,9
+2641,Harrowgate Park,9
+2642,Henon,9
+2643,Winter Park,9
+2644,Luxembourg,9
+2645,Stroudsburg,9
+2646,J.D.,9
+2647,Simi Valley,9
+2648,Gronk,9
+2649,Bellevue,9
+2650,Prince George County,9
+2651,Miramar,9
+2652,Bengal,9
+2653,Nationals Park,9
+2654,Town,9
+2655,Corpus Christi,9
+2656,Martha Street,9
+2657,the Stadium District,9
+2658,Borrero,9
+2659,Grove City,9
+2660,Oval,9
+2661,Healthline,9
+2662,the West District,9
+2663,Key Glock,9
+2664,Wheat Ridge,9
+2665,SAN JOSE,9
+2666,SoFi Stadium,9
+2667,Scenery Park,9
+2668,Cutler Bay,9
+2669,Ewing,9
+2670,Wired,9
+2671,the Clay Studio,9
+2672,Lake George,9
+2673,Jenin,9
+2674,Sporting,9
+2675,the Washington Avenue Repaving and Improvement Project,9
+2676,Bassetts,9
+2677,Fort Bles,9
+2678,the Golden Nugget,9
+2679,Drexel Square,9
+2680,the San Francisco Bay,9
+2681,Zambada,9
+2682,the San Francisco International Airport,9
+2683,Isle City,9
+2684,Temprano,9
+2685,Nicodemus,9
+2686,Coconino County,9
+2687,Ferreira,9
+2688,South Orange,9
+2689,Lubbock,9
+2690,Ebola,9
+2691,West Philadelphia High School,9
+2692,Englewood,9
+2693,Sanger,9
+2694,West Baltimore,9
+2695,Tottenham,9
+2696,Millersville,9
+2697,JILLY,9
+2698,Atlantic Counties,9
+2699,Ballotpedia,9
+2700,Fenway Park,9
+2701,Parkside Avenue,9
+2702,Lawndale,9
+2703,Darick Hall,9
+2704,Dayton,9
+2705,Mural City Cellars,9
+2706,Balenciaga,9
+2707,Trenton Avenue,9
+2708,Monterey,9
+2709,PARIS,9
+2710,Larimer County,9
+2711,Durango,9
+2712,Edinboro,9
+2713,The City of Brotherly Love,9
+2714,New Mexico State,9
+2715,Redding,9
+2716,Metallica,9
+2717,League Island Boulevard,9
+2718,Emlen Street,9
+2719,Strip,9
+2720,Ponce,9
+2721,Osceola Street,9
+2722,Craines,9
+2723,Saylor,9
+2724,the Oval XP,9
+2725,Rockaway Beach,9
+2726,Medford Township,9
+2727,PA Cyber,9
+2728,East 95th Street,9
+2729,the Jersey Boys,9
+2730,Hudson Valley,9
+2731,South Brunswick,9
+2732,east Jerusalem,9
+2733,Casper,9
+2734,the Hollywood Bowl,9
+2735,América,9
+2736,Lewisville,9
+2737,Haven,9
+2738,Lindsay,9
+2739,Aguascalientes,9
+2740,SAN JUAN,9
+2741,Adam Warlock,9
+2742,Slovakia,9
+2743,Lehigh Valley IronPigs,9
+2744,69th Street,9
+2745,Westmont,9
+2746,Hance,9
+2747,Rebirth Island,9
+2748,Spring Lake,9
+2749,The Philadelphia Citizen,9
+2750,Yuma County,9
+2751,Grindr,9
+2752,Trattoria,9
+2753,the Ohio Valley,9
+2754,Metropolitan,9
+2755,Waukegan,9
+2756,the San Francisco,9
+2757,Yuba County,9
+2758,TORONTO,9
+2759,Lewes,9
+2760,7th Street,9
+2761,the Roosevelt Boulevard,9
+2762,Selma,9
+2763,Los Angeles FC,9
+2764,College Park,9
+2765,Penn,9
+2766,Hard Rock Atlantic City,9
+2767,Vásquez,9
+2768,St. Thomas,9
+2769,St. Joseph,9
+2770,Juneau,9
+2771,Reggaeton,9
+2772,the Orlando International Airport,9
+2773,Gatesville,9
+2774,Vale,9
+2775,Ewing Township,9
+2776,the Historic District,9
+2777,Laurel Hill East,9
+2778,School District,9
+2779,U.S.A.,9
+2780,Auschwitz,9
+2781,the Wharton State Forest,9
+2782,Prague,9
+2783,Hugo Chávez,9
+2784,Pflugerville,9
+2785,Nestle,9
+2786,Livingston,9
+2787,Burbank,9
+2788,Beaty,9
+2789,Webb County,9
+2790,East Boston,9
+2791,Trump Tower,9
+2792,Ankara,9
+2793,Skip Bayless,9
+2794,West Lancaster Avenue,9
+2795,Summit Avenue,9
+2796,Amada,9
+2797,Nikolas Cruz,9
+2798,Jasmin,9
+2799,Matamoros,9
+2800,Hinton,9
+2801,Perry,9
+2802,Lockwood,9
+2803,Roosevelt Blvd,9
+2804,Flyers,9
+2805,Acevedo,9
+2806,Ardleigh Street,9
+2807,us,9
+2808,BIRT,9
+2809,Xochitl,9
+2810,Macedo,9
+2811,Rennard Street,9
+2812,Dickinson Street,9
+2813,the Crimean Peninsula,9
+2814,Perris,9
+2815,Delco,9
+2816,South Philadelphia's,9
+2817,Green Bay Packers,9
+2818,Latine,9
+2819,Littleton,9
+2820,the Lone Star,9
+2821,Tatiana,9
+2822,Plano,9
+2823,the South Vaulted Walkway,9
+2824,the Montgomery County,9
+2825,Santa Teresa,9
+2826,New York Islanders,9
+2827,Deer Park,9
+2828,the Lehigh River,9
+2829,nova,9
+2830,Drew,9
+2831,Lovett Park,9
+2832,Prospero,9
+2833,Barnes,9
+2834,El Chavo,9
+2835,Messi,9
+2836,the King of Prussia Mall,9
+2837,Loving,9
+2838,Nas,9
+2839,the Rail Park,9
+2840,MLS-101,9
+2841,Factchequeado,9
+2842,Ogden,9
+2843,Ximena,9
+2844,Oval XP,9
+2845,Lindenwold,9
+2846,Menlo Park,9
+2847,Dickey,9
+2848,Round 2,9
+2849,Main Street Marketplace,9
+2850,Hostin,9
+2851,Marinus,9
+2852,AMERICA,9
+2853,Diamond,9
+2854,North Dakota’s,9
+2855,new york,9
+2856,reggaeton,9
+2857,Columbus Boulevard,9
+2858,Bergamo,9
+2859,Marin County,9
+2860,Forest County,9
+2861,Sylmar,9
+2862,Midnight,9
+2863,the Colonial Theatre,9
+2864,GEORGIA,9
+2865,San Vicente,9
+2866,South California,9
+2867,Biggs,9
+2868,Tiananmen Square,9
+2869,Dibbs,9
+2870,Ventnor Avenue,9
+2871,Secaucus,9
+2872,CERN,9
+2873,Lake County State’s,9
+2874,Woodson,9
+2875,TAMPA,8
+2876,Jakarta,8
+2877,Radiant Summer Splendor,8
+2878,Newark International Airport,8
+2879,Congregation Rodeph Shalom,8
+2880,Largest City,8
+2881,Punta Cana,8
+2882,MIAMI,8
+2883,Inter Miami,8
+2884,the Annenberg Center,8
+2885,the Second District,8
+2886,Greenland,8
+2887,Stairway,8
+2888,Philadelphia Highway Patrol,8
+2889,Koreas,8
+2890,Doogs,8
+2891,Quarryville,8
+2892,Tacko,8
+2893,Seminole County,8
+2894,Kyrgyzstan,8
+2895,midwest,8
+2896,the Robb Primary,8
+2897,the Eastern Shore,8
+2898,the Cayman Islands,8
+2899,Valenzuela,8
+2900,Davis County,8
+2901,St. Joe’s Prep,8
+2902,Hardin,8
+2903,Sheeran,8
+2904,León,8
+2905,Beirut,8
+2906,Yuba,8
+2907,the William Way Center,8
+2908,boycotts,8
+2909,N.M.,8
+2910,Titan,8
+2911,kinda,8
+2912,Hillel,8
+2913,Author,8
+2914,Albania,8
+2915,Harbaugh Village,8
+2916,Universal,8
+2917,Greenwood Park Mall,8
+2918,Academy Park High School,8
+2919,East Palo Alto,8
+2920,the City Hall,8
+2921,Hyde Park,8
+2922,T.B.,8
+2923,Mangold,8
+2924,Orlando Arcia,8
+2925,Strand,8
+2926,Victorville,8
+2927,Aidvantage,8
+2928,Krishnan,8
+2929,Swahili,8
+2930,Minnich,8
+2931,Valeria,8
+2932,Moreno Valley,8
+2933,Camila,8
+2934,Pompano Beach,8
+2935,cyanobacteria,8
+2936,Oak Park,8
+2937,Katierose,8
+2938,Wakanda,8
+2939,Dnipropetrovsk,8
+2940,Moss Point,8
+2941,Frankford Creek,8
+2942,Chicagoland,8
+2943,Adams Street,8
+2944,Franco,8
+2945,the Webb Telescope,8
+2946,Arctic,8
+2947,Mayfield,8
+2948,Douglas County,8
+2949,Aaronson,8
+2950,APD Homicide,8
+2951,Eastern District,8
+2952,the Pennsylvania Convention Center,8
+2953,Veracruzana,8
+2954,Rochelle,8
+2955,Puebla,8
+2956,West Valley,8
+2957,Woodland Hills,8
+2958,Fort Pierce,8
+2959,La Paz,8
+2960,the Hard Rock Hotel and Casino,8
+2961,Antigua,8
+2962,Thalía,8
+2963,the Azov Sea,8
+2964,the Memphis Grizzlies,8
+2965,Polari,8
+2966,Kenemore,8
+2967,Tripadvisor,8
+2968,the Pennsylvania Capitol,8
+2969,Wolcott Drive,8
+2970,Chicago City Hall,8
+2971,Vera,8
+2972,León County,8
+2973,Sand Island,8
+2974,Park City,8
+2975,Puerto Rico.-,8
+2976,Larchwood Avenue,8
+2977,Bedminster,8
+2978,Pastorius Park Summer Concerts,8
+2979,ohio,8
+2980,Western,8
+2981,Bucks County District,8
+2982,SAVANNAH,8
+2983,Old York Road,8
+2984,De Niro,8
+2985,Rivera,8
+2986,El Dorado County,8
+2987,West Chester's,8
+2988,Seaside Heights,8
+2989,Harper,8
+2990,Mateo,8
+2991,Aspen Street,8
+2992,Steichen,8
+2993,Ndlela,8
+2994,Brauhaus Schmitz,8
+2995,Paramount+,8
+2996,Waterloo,8
+2997,3rd Congressional District,8
+2998,Shannon de Lima,8
+2999,Poston,8
+3000,Westville,8
+3001,Pasco,8
+3002,Brooksville,8
+3003,Munoz,8
+3004,Comly Street,8
+3005,Downey,8
+3006,Mo Brooks of Alabama,8
+3007,Winslow Township,8
+3008,Esperanza,8
+3009,ARS Brewery ARS,8
+3010,the Whole-Home Repairs Program,8
+3011,Westchester,8
+3012,Palumbo Park,8
+3013,MENDON,8
+3014,the Burlington County Jail,8
+3015,Fort Bend County,8
+3016,Geico,8
+3017,Bosnia and Herzegovina,8
+3018,the Hubble Space Telescope,8
+3019,Kawasaki,8
+3020,Lower Oxford Township,8
+3021,Galapagos,8
+3022,NM,8
+3023,Zerboni,8
+3024,Round Lake Beach,8
+3025,Brentwood,8
+3026,North Highlands Fire,8
+3027,Pokrovsk,8
+3028,Westchester County,8
+3029,IRGC,8
+3030,East Bradford Township,8
+3031,Crime,8
+3032,Cárdenas,8
+3033,Capulhuac,8
+3034,South Bend,8
+3035,the Eastern Pacific,8
+3036,Saying,8
+3037,Columbus Square,8
+3038,Boomerang,8
+3039,CSA,8
+3040,Dulles,8
+3041,Rasheed Wallace Road,8
+3042,El Jarocho,8
+3043,Imperioli,8
+3044,the Camden County Prosecutor’s Office,8
+3045,Sparta,8
+3046,Ultium,8
+3047,New Castle Avenue,8
+3048,Halcyon Drive,8
+3049,Macario,8
+3050,Calif,8
+3051,East Johnson Street,8
+3052,garlicky,8
+3053,Tyler State Park,8
+3054,Napa,8
+3055,Andre Dillard,8
+3056,Achieve,8
+3057,Essence,8
+3058,Bainbridge Street,8
+3059,Shenzhen,8
+3060,W,8
+3061,Elizabeth,8
+3062,Loudmouth,8
+3063,Canal Park,8
+3064,Arlington National Cemetery,8
+3065,Kirby,8
+3066,Stoltenberg,8
+3067,French Creek,8
+3068,Trolley Modernization,8
+3069,41st Street,8
+3070,Marshall Road,8
+3071,Union County,8
+3072,the Main Line,8
+3073,Sophia,8
+3074,HIGHLAND PARK,8
+3075,Stargazy,8
+3076,Eastern European,8
+3077,Jackson County,8
+3078,@amyrosenberg,8
+3079,Atlético,8
+3080,Ortley Beach,8
+3081,Francisville,8
+3082,Glenside,8
+3083,Davenport,8
+3084,Klemt,8
+3085,demagorgon,8
+3086,Romina,8
+3087,Schuylkill River Trail,8
+3088,GLSEN,8
+3089,University City’s,8
+3090,Jiříček,8
+3091,Hobbs,8
+3092,Severodvinsk,8
+3093,the Hockey Hall of Fame,8
+3094,Brady,8
+3095,Council District,8
+3096,Main,8
+3097,Bennetts,8
+3098,Yugoslavia,8
+3099,Smart,8
+3100,North Darien Street,8
+3101,José,8
+3102,Uzbekistan,8
+3103,RI,8
+3104,Seymour,8
+3105,Tabu,8
+3106,La Guagua,8
+3107,West Philadelphia Skills Initiative,8
+3108,Tired Hands,8
+3109,Nairobi,8
+3110,Anastasia,8
+3111,Citizen Bank Park,8
+3112,west,8
+3113,Gulf of Mexico,8
+3114,Children,8
+3115,Pizzeria Beddia,8
+3116,Green City,8
+3117,Vizcarra,8
+3118,Cobbs Creek’s,8
+3119,Drysdale,8
+3120,Slovenia,8
+3121,West Virginia’s,8
+3122,the Gaza Strip,8
+3123,Neuronetics,8
+3124,DEWEY BEACH,8
+3125,Route 15,8
+3126,Zurich,8
+3127,Nature,8
+3128,the Mercer County Homicide Task Force,8
+3129,Cambria,8
+3130,Moab,8
+3131,Calaveras County,8
+3132,Modern,8
+3133,Tip Parallel,8
+3134,Mayfair,8
+3135,Flourtown,8
+3136,Leary,8
+3137,Blacksburg,8
+3138,georgia,8
+3139,Napa Valley,8
+3140,Ogontz Avenue,8
+3141,Mexico City - Mexican,8
+3142,El,8
+3143,CAMDEN COUNTY,8
+3144,Chestnut Street•,8
+3145,African America,8
+3146,Penn Avenue,8
+3147,Montour County,8
+3148,Bradford County,8
+3149,Sullivan County,8
+3150,South St,8
+3151,34th Street,8
+3152,Tania,8
+3153,Manhattan Beach,8
+3154,West Norriton,8
+3155,Guggina,8
+3156,Knapp,8
+3157,Morristown,8
+3158,the Historic Hotel Bethlehem,8
+3159,Brookhaven,8
+3160,4th Street Delicatessen,8
+3161,Cardona,8
+3162,Riverview Plaza,8
+3163,Aponte,8
+3164,the George R. Brown Convention Center,8
+3165,California City,8
+3166,Chester County's,8
+3167,Hague,8
+3168,the Museum of the American Revolution,8
+3169,Brewery Hill,8
+3170,Pittsburg,8
+3171,Edgely Field,8
+3172,Kyhara,8
+3173,El Merkury,8
+3174,Cedar Avenue,8
+3175,Columbus Square Park,8
+3176,East Cheltenham Avenue,8
+3177,Zambia,8
+3178,East Luzerne Street,8
+3179,West Girard Avenue,8
+3180,Vernon Park,8
+3181,Putin,8
+3182,Fulbright,8
+3183,Route 611,8
+3184,South Lake Tahoe,8
+3185,Elizabeth City,8
+3186,Chat,8
+3187,Ventnor,8
+3188,Lake Travis,8
+3189,Potomac,8
+3190,Hall County,8
+3191,the Dorset Avenue Bridge,8
+3192,Ariyana,8
+3193,Mayrín Villanueva,8
+3194,DCF,8
+3195,Jones Beach,8
+3196,Griswold,8
+3197,Spruce,8
+3198,Elliger Park,8
+3199,bingo,8
+3200,Truth,8
+3201,Long Island City,8
+3202,Camden County’s,8
+3203,Route 8,8
+3204,LPL,8
+3205,the Pocono Mountains,8
+3206,SAN ANTONIO,8
+3207,Esq,8
+3208,Cassell,8
+3209,Ocean City's,8
+3210,Cousin,8
+3211,Kamasi,8
+3212,Cupertino,8
+3213,Vine Street Expressway,8
+3214,Wong,8
+3215,Brigantine,8
+3216,Miami Heat,8
+3217,Vagos,7
+3218,Paradise,7
+3219,Hedgerow,7
+3220,Aberdeen,7
+3221,Burnet,7
+3222,Beltran,7
+3223,the Philly Bar and Restaurant,7
+3224,Understand,7
+3225,Silver,7
+3226,Hilco,7
+3227,utensil,7
+3228,Ruppsville Road,7
+3229,FRESNO,7
+3230,A Long Time,7
+3231,Total,7
+3232,Delhi,7
+3233,Lashbrook,7
+3234,Tuscaloosa,7
+3235,Inside,7
+3236,Wynnewood,7
+3237,Midway,7
+3238,Yalitza,7
+3239,790 East Market St.,7
+3240,the Red Sea,7
+3241,Zhytomyr,7
+3242,Mastercard,7
+3243,Pietro,7
+3244,Feltonville,7
+3245,National Park,7
+3246,Stotesbury,7
+3247,South Vietnam,7
+3248,Toronto Pearson International Airport,7
+3249,Old Town,7
+3250,Santulli,7
+3251,N95,7
+3252,Harvey,7
+3253,Route 66,7
+3254,Louis,7
+3255,Catania,7
+3256,Power Circle,7
+3257,Arrott Street,7
+3258,Wyncote,7
+3259,Amado,7
+3260,the Baseball Hall of Fame,7
+3261,the Dallas Cowboys,7
+3262,the Monaco Grand Prix,7
+3263,Haddington Woods,7
+3264,Virtual,7
+3265,jersey,7
+3266,South Asia,7
+3267,Draghi,7
+3268,North Philly’s,7
+3269,East Liberty,7
+3270,Pacers,7
+3271,Plutarco Haza,7
+3272,Marcy,7
+3273,the American Republic,7
+3274,Old City Eats,7
+3275,the Old Bailey,7
+3276,New Delhi,7
+3277,Camden Yards,7
+3278,Abandoned,7
+3279,Sonora,7
+3280,Bistro,7
+3281,Turtle Island,7
+3282,Leeds United,7
+3283,JENKINTOWN,7
+3284,Ariana,7
+3285,the Atlantic Coast,7
+3286,Visalia,7
+3287,Bahri,7
+3288,Underground Railroad,7
+3289,North 7th Street,7
+3290,Market St,7
+3291,Milwaukee County,7
+3292,Tangshan,7
+3293,Maui,7
+3294,Bednar,7
+3295,FORT LAUDERDALE,7
+3296,East Chelten Avenue,7
+3297,the Golden Rule,7
+3298,Sandy Sprint Sea,7
+3299,Saudi Arabia's,7
+3300,Titusville,7
+3301,the Cobbs Creek Trail,7
+3302,Macungie,7
+3303,Lackawanna County,7
+3304,Ganem,7
+3305,French Creek State Park,7
+3306,the Penn Medicine Lung Center,7
+3307,West Fairmount,7
+3308,San Rafael,7
+3309,Misfits,7
+3310,Campania,7
+3311,Tyre Sampson,7
+3312,Acetaminophen,7
+3313,Boothwyn,7
+3314,Subway Series,7
+3315,Georgetown Law,7
+3316,Putnam,7
+3317,Bentley Avenue,7
+3318,Huatulco,7
+3319,Farmington,7
+3320,Kings County,7
+3321,West Johnson Street,7
+3322,Palm Beach County,7
+3323,Cooke City,7
+3324,Boy Scout,7
+3325,Everest,7
+3326,Huntingdon County,7
+3327,www.premiosjuventud.com/vota,7
+3328,P.O.,7
+3329,Bronzeville,7
+3330,Herbig,7
+3331,Rajamouli,7
+3332,Fraud,7
+3333,Venango,7
+3334,USSR,7
+3335,Noir,7
+3336,"North, South",7
+3337,Liam,7
+3338,Brookline,7
+3339,Xerta,7
+3340,Waynesburg,7
+3341,NORTH PHILADELPHIA,7
+3342,the San José Galeon,7
+3343,Hurricane,7
+3344,Pleasant Hill Park Sponsored,7
+3345,the Coliseum of Puerto Rico,7
+3346,Hindi,7
+3347,Yuba City,7
+3348,Bremerton School District,7
+3349,Black Lives Matter,7
+3350,Cauca,7
+3351,Independence National Park,7
+3352,Hainesport,7
+3353,North Columbus Boulevard,7
+3354,Yeadon,7
+3355,Resorts Casino,7
+3356,Hela,7
+3357,St. Nicholas of Tolentine,7
+3358,the Cobbs Creek Golf Course,7
+3359,Interstate 5,7
+3360,Podraza,7
+3361,Crawford,7
+3362,texas,7
+3363,the Las Vegas Strip,7
+3364,Greene Street,7
+3365,Algeria,7
+3366,Mid-Atlantic,7
+3367,63rd Street,7
+3368,Washington Street,7
+3369,the Penn Museum,7
+3370,Listeria,7
+3371,Penn Valley,7
+3372,Avenue,7
+3373,Montgomery county,7
+3374,Taft,7
+3375,Antioquia,7
+3376,Wood Street,7
+3377,Burma,7
+3378,Lodi,7
+3379,the Temple Mount,7
+3380,North Bowl,7
+3381,Scandinavia,7
+3382,Nissan Stadium,7
+3383,Giffords,7
+3384,Montenegro,7
+3385,Dickinson,7
+3386,Khalifa,7
+3387,Water Tower,7
+3388,Philly.,7
+3389,Woodbridge,7
+3390,Zeppoli,7
+3391,Ridgewood Street,7
+3392,Galveston Bay,7
+3393,Ramona,7
+3394,Salvany,7
+3395,Kleer,7
+3396,Billings,7
+3397,Wellington,7
+3398,Northeast Avenue,7
+3399,Short,7
+3400,Deerfield,7
+3401,Pixar,7
+3402,Rucker Park,7
+3403,Stina,7
+3404,NHL,7
+3405,Documenta,7
+3406,Lincoln Highway,7
+3407,Tacony,7
+3408,West Wildwood,7
+3409,Valeria Aponte,7
+3410,Altoona,7
+3411,the Middle District,7
+3412,Cambria County,7
+3413,Comly Road,7
+3414,Gunn,7
+3415,Bridgeville,7
+3416,South Los Angeles,7
+3417,Margate City,7
+3418,the Farley Plaza,7
+3419,superlluna,7
+3420,North 17th Street,7
+3421,Shippensburg,7
+3422,Mojica,7
+3423,Shishimarin,7
+3424,UKRAINE,7
+3425,Kuala Lumpur,7
+3426,Mustafar,7
+3427,Kong,7
+3428,CV,7
+3429,the Delaware River Basin,7
+3430,Rory,7
+3431,Fort Gordon,7
+3432,Stanton,7
+3433,Krakow,7
+3434,Vail,7
+3435,The Los Angeles County,7
+3436,the Cape Fear River,7
+3437,L,7
+3438,New Orleans Saints,7
+3439,Yavapai County,7
+3440,Summerfest Open,7
+3441,Central Jersey,7
+3442,Strip District,7
+3443,Singletary,7
+3444,Ramstein Air Base,7
+3445,Buckingham,7
+3446,Turley,7
+3447,St. Ephrem,7
+3448,Lucasfilm,7
+3449,Yekaterinburg,7
+3450,Maluma,7
+3451,Alpharetta,7
+3452,W.Va.,7
+3453,Huntington Valley,7
+3454,Mumbai,7
+3455,Baldwin Park,7
+3456,68th Street,7
+3457,Snooki,7
+3458,Miami Marlins,7
+3459,St. Louis County,7
+3460,D-Ga.,7
+3461,Elgin,7
+3462,Bullseye Blast,7
+3463,Schaumburg,7
+3464,Keyes,7
+3465,South Main Street,7
+3466,East Glencrest Road,7
+3467,Greenpoint,7
+3468,Izakaya,7
+3469,Woolwich Township,7
+3470,Spruce Hill,7
+3471,Yailin,7
+3472,Dulles Airport,7
+3473,Braca,7
+3474,Judicial District,7
+3475,Lake Lady Bird,7
+3476,South Africa’s,7
+3477,Hardena,7
+3478,the Buckingham Palace,7
+3479,East Lincoln Highway,7
+3480,SF,7
+3481,Chesterfield,7
+3482,T.I.,7
+3483,Czech Republic,7
+3484,Kennedy,7
+3485,Cobbs Creek Parkway,7
+3486,Helena,7
+3487,the South Pacific,7
+3488,Southern Texas,7
+3489,the Iberian Peninsula,7
+3490,Judges,7
+3491,Sneaker Ball,7
+3492,Avalon,7
+3493,Brea,7
+3494,Jacobabad,7
+3495,Mount Everest,7
+3496,Club Level,7
+3497,Sydenham Street,7
+3498,Idorsia,7
+3499,Newmark,7
+3500,Upper Darby Township,7
+3501,Lehigh County District,7
+3502,the Los Angeles Clippers,7
+3503,Radio City,7
+3504,San Gabriel Valley,7
+3505,the Mamie Nichols Center,7
+3506,Pilates,7
+3507,16th Street,7
+3508,the Western District,7
+3509,Love Island,7
+3510,North Star,7
+3511,Leaphart,7
+3512,Passyunk Square,7
+3513,Claudia,7
+3514,1st District,7
+3515,Lake Wallenpaupack,7
+3516,Ganguli,7
+3517,Lone Star,7
+3518,Arsenal,7
+3519,South Jersey's,7
+3520,Washington Township High School,7
+3521,Axios,7
+3522,Tramontina,7
+3523,Foxglove,7
+3524,Alma,7
+3525,Coeur d’Alene,7
+3526,Sonoma Raceway,7
+3527,Highland Park High School,7
+3528,Amaya,7
+3529,Castaway Cay,7
+3530,Hockessin,7
+3531,Kyoto,7
+3532,Los Angeles Lakers,7
+3533,Jackson Holliday,7
+3534,Samara,7
+3535,Jessi,7
+3536,Spending,7
+3537,Fayette County,7
+3538,Forest Hill,7
+3539,Stier,7
+3540,the Motor City,7
+3541,Bicentennial,7
+3542,lifespan,7
+3543,Pebble Beach,7
+3544,Upper Darby High School,7
+3545,Trujillo Alto,7
+3546,El Chapo,7
+3547,PW,7
+3548,china,7
+3549,La Botanica,7
+3550,Mango,7
+3551,the Mississippi River,7
+3552,Hagerstown,7
+3553,Crimean Peninsula,7
+3554,the Great Lakes,7
+3555,non-U.S.,7
+3556,Deer Park Circle,7
+3557,Metro Fire,7
+3558,East Ontario Street,7
+3559,South Bowl,7
+3560,BS,7
+3561,R0,7
+3562,the Korean Peninsula,7
+3563,Iron County,7
+3564,Baker Street,7
+3565,Stick,7
+3566,Cumberland Street,7
+3567,NE,7
+3568,San Diego's,7
+3569,Paterno,7
+3570,Belize,7
+3571,City Park,7
+3572,The Proud Boys,7
+3573,Pence,7
+3574,Independence Seaport Museum,7
+3575,juveniles,7
+3576,Shara,7
+3577,Worcester,7
+3578,Cemetery,7
+3579,Rodolfo,7
+3580,Afromation Avenue,7
+3581,Whittier,7
+3582,San Gabriel,7
+3583,Highland Park's,7
+3584,Vought,7
+3585,Duluth,7
+3586,Angolan,7
+3587,Volver,7
+3588,Peddler’s Village,7
+3589,the Greenwood Park Mall,7
+3590,Jeurys Familia,7
+3591,Gayan,7
+3592,DE,7
+3593,Washington D.C.’s,7
+3594,Great Plaza,7
+3595,the South District,7
+3596,CARY,7
+3597,Los Angeles Clippers,7
+3598,Kutztown,7
+3599,the State of Israel,7
+3600,Melilla,7
+3601,Debt,7
+3602,Dorchester County,7
+3603,Fort Lee,7
+3604,South Central Avenue,7
+3605,West Orange,7
+3606,Douglas,7
+3607,McGowan,7
+3608,Univision34,7
+3609,Kelce,7
+3610,Mazatlan,7
+3611,Queen Creek,7
+3612,Amesbury,7
+3613,Abuja,7
+3614,Western Avenue,7
+3615,Jokic,7
+3616,Oildale,7
+3617,Bloomington,7
+3618,the Delmarva Peninsula,7
+3619,Kinsey,7
+3620,Hennepin County,7
+3621,Hearthside,7
+3622,the Welcome Center,7
+3623,Darius Garland,7
+3624,Chino Hills,7
+3625,Huntingdon,7
+3626,Missuri,7
+3627,Dakota del Sur,7
+3628,the Lower East Side,7
+3629,Hudson County,7
+3630,the Franklin Square Fountain Show,7
+3631,Nusslein,7
+3632,East Harlem,7
+3633,Elizabethtown,7
+3634,the City of Camden,7
+3635,the Soundwaves Theatre,7
+3636,Wings Field,7
+3637,The Hague,7
+3638,Route 29,7
+3639,Montréal,7
+3640,Bryant Donham,7
+3641,East Girard Avenue,7
+3642,Sri Lanka’s,6
+3643,Bader Field,6
+3644,Hennessey,6
+3645,Hidden City,6
+3646,54th Street,6
+3647,the National Palace,6
+3648,Cottman Avenue,6
+3649,Saunders Park,6
+3650,Foltz,6
+3651,Jackson International Airport,6
+3652,Northampton,6
+3653,Wexford,6
+3654,New Port Richey,6
+3655,Zahara,6
+3656,South Pacific,6
+3657,Elkton,6
+3658,Lemon.io,6
+3659,Moon,6
+3660,Mifflin Street,6
+3661,Upper Chichester,6
+3662,the Central District,6
+3663,the Javari Valley,6
+3664,Woodland Avenue,6
+3665,New England’s,6
+3666,Maddox,6
+3667,Consequence,6
+3668,Ardmore Music Hall,6
+3669,North Hollywood,6
+3670,Breathitt County,6
+3671,Mt. Airy Day,6
+3672,Roosevelt Avenue,6
+3673,Kapolei,6
+3674,the Southern Hemisphere,6
+3675,Rodríguez Orejuela,6
+3676,the Middle Atlantic,6
+3677,Muehleck,6
+3678,Sixers,6
+3679,Kratom,6
+3680,cheddar,6
+3681,Bingham Street,6
+3682,Callahan,6
+3683,Hartsfield-Jackson International Airport,6
+3684,Wyden,6
+3685,Southern Alleghenies,6
+3686,Marc,6
+3687,BOSTON,6
+3688,Westfield,6
+3689,Eagle Scout,6
+3690,Selina,6
+3691,Melrose Park,6
+3692,SOUTH KOREA,6
+3693,Alrighty,6
+3694,Latin Grammy,6
+3695,Mount Vesuvius,6
+3696,the “East Side,6
+3697,Kassie,6
+3698,Gabriella,6
+3699,Middle Eastern,6
+3700,Coulter Avenue,6
+3701,Snake River,6
+3702,Canyon Atlantic,6
+3703,Mujica,6
+3704,Rosemont,6
+3705,the Pro Bowl,6
+3706,Airport,6
+3707,State Street,6
+3708,OH,6
+3709,Ingrid Coronado,6
+3710,covid-19,6
+3711,Sunset Beach,6
+3712,Cape May’s,6
+3713,Battleship,6
+3714,CA,6
+3715,Alexus Mercedes Pedraza,6
+3716,Coastal Carolina,6
+3717,Logan Airport,6
+3718,Hissam,6
+3719,Norcross,6
+3720,the George W. Hill Correctional Facility,6
+3721,Bay City,6
+3722,the United States Sheriff Service,6
+3723,Brown Street,6
+3724,10 East 64th Street,6
+3725,Loyola,6
+3726,Miranda,6
+3727,Grassy Sound Marina,6
+3728,El Vez,6
+3729,West Sacramento,6
+3730,Gardenia,6
+3731,Nagasaki,6
+3732,Tryko,6
+3733,Chilindrina,6
+3734,Gironde,6
+3735,Grassy Island,6
+3736,St. Babs,6
+3737,Jrue Holiday,6
+3738,the Barack Obama-Hillary Rodham Clinton,6
+3739,Hart,6
+3740,Fleet Street,6
+3741,Theta,6
+3742,Leverington Avenue,6
+3743,Fields,6
+3744,ABBOTT,6
+3745,the Kennedy Space Center,6
+3746,Communities,6
+3747,Lake Shore Drive,6
+3748,Emilia,6
+3749,Island Avenue,6
+3750,Kenia,6
+3751,Elk Grove,6
+3752,NR4QT,6
+3753,Cira Centre,6
+3754,The City of Philadelphia’s,6
+3755,Politico,6
+3756,the Lake Eola Park,6
+3757,CANADA,6
+3758,Chester Heights,6
+3759,The Sea,6
+3760,North Las Vegas,6
+3761,Pepsico,6
+3762,the Rocky Mountains,6
+3763,Festival Pier,6
+3764,North America’s,6
+3765,the Movistar Arena,6
+3766,Photo,6
+3767,Robbinsville,6
+3768,the Big City,6
+3769,La Gabi,6
+3770,Tibet,6
+3771,I-676,6
+3772,Fenwick Island,6
+3773,Vishay,6
+3774,Pro Bowl,6
+3775,Paktika province,6
+3776,Westampton,6
+3777,the Susquehanna River Valley,6
+3778,Landry,6
+3779,Juntos,6
+3780,Cannon,6
+3781,Gary,6
+3782,the AL East,6
+3783,Dnieper River,6
+3784,Vida,6
+3785,Valencia,6
+3786,Middlesex,6
+3787,Luling,6
+3788,Besthof,6
+3789,the Atlantic County Prosecutor’s Office,6
+3790,Yonkers,6
+3791,Ardmore Avenue,6
+3792,Dnipro,6
+3793,San Fermín,6
+3794,Daesh,6
+3795,Harrisonburg,6
+3796,Protecting,6
+3797,Kluge,6
+3798,the Highland Park Independence Day,6
+3799,Biden,6
+3800,Sonia,6
+3801,Seneca Village,6
+3802,Zelle,6
+3803,the Townsend Inlet Bridge,6
+3804,the Islamic Republic,6
+3805,South Bucknell Street,6
+3806,Delaware Contemporary,6
+3807,Daly City,6
+3808,Lehigh,6
+3809,Magarin,6
+3810,new jersey,6
+3811,Cape Town,6
+3812,Brick,6
+3813,Nevels,6
+3814,Showboat,6
+3815,South Africa's,6
+3816,Phuket,6
+3817,Ste,6
+3818,the United States',6
+3819,Profem,6
+3820,the metro area,6
+3821,460,6
+3822,Hico,6
+3823,Southern Thailand,6
+3824,Park Avenue East,6
+3825,Kosovo,6
+3826,Bourla,6
+3827,Del Rio’s,6
+3828,Ventnor City,6
+3829,Northampton Street,6
+3830,Titania,6
+3831,los angeles,6
+3832,monthslong,6
+3833,Mamitas,6
+3834,Borstar,6
+3835,Abelseth,6
+3836,Pine Hill,6
+3837,Death Valley,6
+3838,Guinea,6
+3839,Adams,6
+3840,McPherson Square Park,6
+3841,Clackamas County,6
+3842,Tanul,6
+3843,Third Street,6
+3844,Cartagena,6
+3845,Zapopan,6
+3846,Congress Hall,6
+3847,Atlantic Shores,6
+3848,Meridian,6
+3849,MarchOnHarrisburg,6
+3850,the Parkway,6
+3851,Reese Witherspoon,6
+3852,Nadi,6
+3853,The Imagination Space,6
+3854,Pigott,6
+3855,Truist Park,6
+3856,Castor Avenue,6
+3857,the West Chester Railroad,6
+3858,Porterville,6
+3859,East Tioga,6
+3860,the State Capitol,6
+3861,Interstate 78,6
+3862,ARIZONA,6
+3863,48th Street,6
+3864,Fort Bend,6
+3865,Vicinity,6
+3866,the New Orleans Saints,6
+3867,Pine Avenue,6
+3868,Ronaldo,6
+3869,PNC Park,6
+3870,Islamabad,6
+3871,Upper Dublin,6
+3872,Gulf Coast,6
+3873,Henry Avenue,6
+3874,Ames,6
+3875,Las Cruces,6
+3876,Mulberry Street,6
+3877,Philip Street,6
+3878,Nutabolt,6
+3879,Exeter Township,6
+3880,Xiong,6
+3881,Anaya,6
+3882,Delancey Street,6
+3883,Pak,6
+3884,San Marino,6
+3885,ELECARY,6
+3886,Chicken Bone Beach,6
+3887,qFLIX,6
+3888,Dreamgirls,6
+3889,Buzz Lightyear,6
+3890,the Bellwether District,6
+3891,Salgado,6
+3892,Missouri City,6
+3893,Weekends,6
+3894,the Tony Awards,6
+3895,Masala,6
+3896,Front,6
+3897,Perkasie,6
+3898,Forsyth County,6
+3899,Alsaadi,6
+3900,Camp Ramah,6
+3901,Ayton,6
+3902,VeChain,6
+3903,Pulse,6
+3904,USA.-,6
+3905,Worked,6
+3906,Bethel Township,6
+3907,Calabasas,6
+3908,DM,6
+3909,SVT,6
+3910,Chuhuiv,6
+3911,Fourth Streets,6
+3912,Eastern Cape,6
+3913,the Chase Center,6
+3914,Shalom Memorial Park,6
+3915,Oakton,6
+3916,Migos,6
+3917,Burlington Township,6
+3918,Edgewater,6
+3919,South Philly's,6
+3920,Murad,6
+3921,North 50th Street,6
+3922,Working,6
+3923,The Moon,6
+3924,Bogdanovic,6
+3925,Abington Township,6
+3926,a Hall of Famer,6
+3927,the Ihlara Valley,6
+3928,stocky white peach,6
+3929,Northeast Corridor,6
+3930,St. Croix,6
+3931,El Mariachi,6
+3932,Allegheny County Jail,6
+3933,Onecoin,6
+3934,the United States Secret Service,6
+3935,the United States Constitution,6
+3936,Sorento,6
+3937,Allens Lane Art Center,6
+3938,Bryant,6
+3939,Alphatta,6
+3940,Raiklin,6
+3941,Windhorst,6
+3942,Walnut Creek,6
+3943,Route 30,6
+3944,the strawberry moon,6
+3945,Chincoteague,6
+3946,Proud Boys,6
+3947,Dakota,6
+3948,Oak Hill,6
+3949,Memorial Hall,6
+3950,Castle,6
+3951,Juanga,6
+3952,Franklin Street,6
+3953,Mt. Vesuvius,6
+3954,North 3rd Street,6
+3955,Lieber,6
+3956,Armenia,6
+3957,Leobardo,6
+3958,Dolby,6
+3959,Pandora,6
+3960,Phnom Penh,6
+3961,the Baltic Sea,6
+3962,Philadelphia Eagles,6
+3963,Guangzhou,6
+3964,Algorithm,6
+3965,Halliburton,6
+3966,Capitol Square,6
+3967,the Strawberry Mansion Bridge,6
+3968,Pratt Street,6
+3969,Newkirk Street,6
+3970,Juniper,6
+3971,The Island,6
+3972,Ben Gurion Airport,6
+3973,Forest Avenue,6
+3974,Rodney Square,6
+3975,Walker Street,6
+3976,the Riviera Maya,6
+3977,Cristobal,6
+3978,Tequesquitengo,6
+3979,Scenes,6
+3980,Simon Gratz High School,6
+3981,the Saint Francis Hospital,6
+3982,Biscayne Bay,6
+3983,Uptown Beer Garden,6
+3984,Carta,6
+3985,Broad St.,6
+3986,Faith Hall,6
+3987,Atlantic Street,6
+3988,Playbrary,6
+3989,Lille,6
+3990,Havenpark,6
+3991,Intro,6
+3992,Left,6
+3993,Wabash,6
+3994,New Orleans Pelicans,6
+3995,the North Carolina Case,6
+3996,Neto,6
+3997,Eoir,6
+3998,the Chestnut Street Bridge,6
+3999,Cuernavaca,6
+4000,the Visas Bulletin,6
+4001,Writing,6
+4002,South Shore Road,6
+4003,A.J.,6
+4004,the Capitol Building,6
+4005,Taqueria,6
+4006,the Crystal Tea Room,6
+4007,Bartholomew County,6
+4008,Colleton County,6
+4009,Referendum,6
+4010,Gastonia,6
+4011,the Venice Island Performing Arts Center,6
+4012,The Star Players,6
+4013,Keith,6
+4014,Hayward,6
+4015,El Rey,6
+4016,Beach Avenue,6
+4017,Camagüey,6
+4018,Lucía,6
+4019,District U.S.,6
+4020,Floyd County,6
+4021,Dalian,6
+4022,Strahle,6
+4023,Helsinki,6
+4024,Memphis Street,6
+4025,Pelton,6
+4026,Hulmeville,6
+4027,Rocha,6
+4028,чтобы,6
+4029,Pitman,6
+4030,Casa 2,6
+4031,Newport Beach,6
+4032,Huffman,6
+4033,Fillmore Street,6
+4034,Daniela,6
+4035,Benito Rivers,6
+4036,Apple Valley,6
+4037,Brinker,6
+4038,LaGuardia Airport,6
+4039,Hebron,6
+4040,Duvall,6
+4041,Ellis Island,6
+4042,Trevorrow,6
+4043,Cyprus,6
+4044,Zuria,6
+4045,Pixie,6
+4046,Conwell Avenue,6
+4047,Overlook Avenue,6
+4048,Liberty City,6
+4049,the Golden Gate,6
+4050,St. Cecilia,6
+4051,Highland Park Fourth,6
+4052,Main St.,6
+4053,Tejada,6
+4054,Venue,6
+4055,Wilco,6
+4056,WEST DEPTFORD,6
+4057,Kingsburg,6
+4058,Stoney,6
+4059,Barnegat Bay,6
+4060,Deltona,6
+4061,Cape Liberty,6
+4062,the Salt Lake City Summer League,6
+4063,Point Pleasant,6
+4064,Bowie,6
+4065,Winnetka,6
+4066,Lac Ste,6
+4067,Sonoma County,6
+4068,Lower Moreland,6
+4069,Prince Louis,6
+4070,the Austin City,6
+4071,Horoscopes Univisión,6
+4072,Eagleville,6
+4073,Sicknick,6
+4074,La Vanguardia,6
+4075,Encinal,6
+4076,Mount Pleasant Street,6
+4077,New York Jets,6
+4078,Magic Kingdom,6
+4079,Memorial Day Pottstown,6
+4080,Mendeland,6
+4081,Lamington,6
+4082,Carroll Park,6
+4083,Forked River,6
+4084,El Bueno,6
+4085,Montgomery Township,6
+4086,Woodstock,6
+4087,Gage Park,6
+4088,Relationship,6
+4089,Camac,6
+4090,Alejandro,6
+4091,Erdrick Street,6
+4092,the Memorial Day weekend,6
+4093,Las,6
+4094,Studio City,6
+4095,the Paradise Lake Campground,6
+4096,Newburyport,6
+4097,N Vegas,6
+4098,Northeast Philadelphia bar Building,6
+4099,Washington DC - United States,6
+4100,Baltimore City,6
+4101,Edna,6
+4102,the Line of Duty,6
+4103,Héctor,6
+4104,the Immaculate Conception,6
+4105,Marcus,6
+4106,Segal,6
+4107,Los Angeles’,6
+4108,Raphy Pina's,6
+4109,Irpin,6
+4110,St. Vincent,6
+4111,New Providence,6
+4112,Northern,6
+4113,Merrick Garland,6
+4114,Ohio State,6
+4115,Millsboro,6
+4116,East Sharpnack Street,6
+4117,Instagram Live,6
+4118,the Arizona Coyotes,6
+4119,St. Davids,6
+4120,Leagues Cup,6
+4121,Rosaland,6
+4122,TECNA,6
+4123,K Street,6
+4124,Northampton Township,6
+4125,Hawkeye,6
+4126,Rico,6
+4127,Prince,6
+4128,the Liberty Bell Center,6
+4129,Ronan,6
+4130,South Carolina's,6
+4131,Batsto,6
+4132,Rockefeller Plaza,6
+4133,Wladimir,6
+4134,East Buffalo,6
+4135,Munroe,6
+4136,West Chester Purple,6
+4137,Kelvins,6
+4138,the Market-Frankford El,6
+4139,Street Road,6
+4140,Spokane,6
+4141,West Hortter Street,6
+4142,Vine Streets,6
+4143,Yowie,6
+4144,Bainbridge,6
+4145,Icebox Project Space,6
+4146,Tejana,6
+4147,the Pattison Lagoon,6
+4148,the Pascagoula River,6
+4149,McCraw,6
+4150,Resistance Garden,6
+4151,Cerdanya,6
+4152,De’Longhi,6
+4153,Esq.,6
+4154,Gilbert Street,6
+4155,Clarence Thomas,6
+4156,the Philadelphia Flower Show,6
+4157,Tlatelolco,6
+4158,DELAWARE COUNTY,6
+4159,Argyle,6
+4160,Chicano,6
+4161,Verdelle,6
+4162,COATESVILLE,6
+4163,Lamar Valley,6
+4164,Domain,6
+4165,Powelton Village,6
+4166,Honeymoon,6
+4167,Merchantville,6
+4168,East Asia,6
+4169,Bills,6
+4170,the Ocean City Beach Patrol,6
+4171,Jafet,6
+4172,East Andrews Avenue,6
+4173,russia,6
+4174,Madison Street,6
+4175,GALVESTON,6
+4176,SoHo,6
+4177,Bells Mill Road,6
+4178,Sandy Alcantara,6
+4179,North Lawrence Street,6
+4180,The Clay Studio,6
+4181,Weavers Way,6
+4182,D.J.,6
+4183,the Big Island,6
+4184,Jessi Rodríguez,6
+4185,the East Coast Greenway,6
+4186,Latinos,6
+4187,Hatfield,6
+4188,Montgomery Avenue,6
+4189,La Doña,6
+4190,Wembley Stadium,6
+4191,Atlantic City Electric,6
+4192,Lakeview,6
+4193,Museveni,6
+4194,Ursinus,6
+4195,AL East,6
+4196,Cookies,6
+4197,Latin,6
+4198,Gwinnett,6
+4199,the Dolby Theatre,6
+4200,Bastille,6
+4201,Williamsburg,6
+4202,Julia,6
+4203,Beltway,6
+4204,North Highlands,6
+4205,Lafayette Street,6
+4206,bruschetta,6
+4207,Nicolás,6
+4208,Earth - Bread + Brewery,6
+4209,Hampton County,6
+4210,North Dakota State,6
+4211,Sunset,6
+4212,Chester Township,6
+4213,North Korea’s,6
+4214,St. Martin,6
+4215,N.y.,6
+4216,polenta,6
+4217,San Bernadino,6
+4218,Route 322,6
+4219,Prosperas,6
+4220,Denver International Airport,6
+4221,Kallie,6
+4222,Billie,6
+4223,Auth Street,6
+4224,Danielle Outlaw,6
+4225,Southlake,6
+4226,the Same Time,6
+4227,the James Beard Awards,6
+4228,crostini,6
+4229,the Anna C. Verna Playground,6
+4230,the Bay of Chesapeake,6
+4231,Louis Street,6
+4232,Del Río,6
+4233,Interfax,6
+4234,Northwest Philly,6
+4235,Goshen,6
+4236,Lagangilang,6
+4237,Zulia,6
+4238,Darrow,6
+4239,10th Street,6
+4240,288,6
+4241,Prudence,6
+4242,Trona,6
+4243,Lake Eola Park,6
+4244,St. Charles,6
+4245,East Westmoreland Street,6
+4246,Manchester Township,6
+4247,Hermès,6
+4248,Port Royal,6
+4249,MANILA,6
+4250,Consortium,6
+4251,Brantley,5
+4252,San Simón,5
+4253,Frankie,5
+4254,East Frankford,5
+4255,Hopeworks,5
+4256,South Philadelphia High School,5
+4257,West Englewood,5
+4258,Kauffman,5
+4259,Roosevelt Memorial Park,5
+4260,the Concord Mall,5
+4261,Vlad,5
+4262,West Laurel Hill Cemetery,5
+4263,Pizzeria,5
+4264,Nikki,5
+4265,Emirates,5
+4266,Ocean City Beach Patrol,5
+4267,West Coulter Street,5
+4268,ATHENS,5
+4269,Spring Training,5
+4270,Adalja,5
+4271,Final Jeopardy,5
+4272,Coconut Grove,5
+4273,Jones,5
+4274,Bell County,5
+4275,Rosas,5
+4276,Walt Disney World,5
+4277,Clash,5
+4278,Schara,5
+4279,Rockies,5
+4280,the Cathedral Basilica of SS,5
+4281,Lehigh County’s,5
+4282,Chesapeake Bay,5
+4283,CHESTER COUNTY,5
+4284,Atlantic Coast Conference,5
+4285,Castle Rock,5
+4286,North Cape May,5
+4287,Summit County,5
+4288,NARA,5
+4289,Olivia de Havilland,5
+4290,the Promised Land,5
+4291,Wilken,5
+4292,City Councilmember,5
+4293,Uniontown,5
+4294,Przemysl,5
+4295,Gratz,5
+4296,New Mexico's,5
+4297,Volusia,5
+4298,Essex County,5
+4299,Tyler Mahle,5
+4300,Piller,5
+4301,Katmandu,5
+4302,Farenheit,5
+4303,Redden,5
+4304,AirTag,5
+4305,the Garden State’s,5
+4306,Atlantic City Boardwalk,5
+4307,Holguín,5
+4308,the Salt Lake City Police Department,5
+4309,ARDMORE,5
+4310,Young,5
+4311,Isle City Run/Walk,5
+4312,Wakefield,5
+4313,North Ave,5
+4314,St. Andrews,5
+4315,Eduardo Escobar,5
+4316,North 16th Street,5
+4317,Maddie,5
+4318,Lamm,5
+4319,Nassau,5
+4320,Kigali,5
+4321,J-HARDEN,5
+4322,Mustang,5
+4323,El Brujo,5
+4324,Kiev,5
+4325,Andre Chachere,5
+4326,La Jornada,5
+4327,Lorenzana,5
+4328,the Salt Lake City,5
+4329,Issac,5
+4330,Tennessee Avenue,5
+4331,the Bucks County Playhouse,5
+4332,ALLENTOWN,5
+4333,Nassau County,5
+4334,Macon County,5
+4335,the Museum of the American Revolution Join the Museum of the American Revolution during Flag Day Weekend,5
+4336,Syracuse Road,5
+4337,the Franklin Institute,5
+4338,Addis Ababa,5
+4339,Evanston,5
+4340,Mercado,5
+4341,the South China Sea,5
+4342,Rollin,5
+4343,Cody,5
+4344,Ark.,5
+4345,Zaporizhzhia,5
+4346,OHIO,5
+4347,Southside,5
+4348,Gibson Drive,5
+4349,Valle de Bravo,5
+4350,Fresh Air,5
+4351,Archie,5
+4352,Memphis Grizzlies,5
+4353,Philadanco,5
+4354,the Northern Mariana Islands,5
+4355,Lemon Hill Drive,5
+4356,Diamond Streets,5
+4357,Dorado,5
+4358,BRUSSELS,5
+4359,the New Port Richey,5
+4360,D-Wash.,5
+4361,West Plaza,5
+4362,St. Paul's Cathedral,5
+4363,Stuttgart,5
+4364,African Plains,5
+4365,Deer District,5
+4366,Wildwood Beach Patrol,5
+4367,Wabash Avenue,5
+4368,Sigel Street,5
+4369,the United Kingdom's,5
+4370,Kaaba,5
+4371,Burgess,5
+4372,Busch Gardens,5
+4373,Vare,5
+4374,Santana,5
+4375,los Beatles,5
+4376,DPS,5
+4377,26th Street,5
+4378,Grain Valley,5
+4379,Allegro,5
+4380,the City of Fraternal Love,5
+4381,Darby Borough,5
+4382,Ocracoke Island's,5
+4383,West Wing,5
+4384,Hoffa,5
+4385,Blackwood,5
+4386,Shawmont Valley,5
+4387,Ferguson Township,5
+4388,the Stade de France,5
+4389,Kernersville,5
+4390,Route 47,5
+4391,Mendocino,5
+4392,Constitutional,5
+4393,the Jalen Hurts,5
+4394,Starfish Boats,5
+4395,Native America,5
+4396,Frye,5
+4397,Penn’s Landing,5
+4398,the Woodmere Art Museum,5
+4399,Orthodox,5
+4400,Saratoga Springs,5
+4401,Labrador,5
+4402,coma,5
+4403,Berkshire Hathaway,5
+4404,New Smyrna Beach,5
+4405,the I-40 West,5
+4406,Hopewell,5
+4407,Veronica,5
+4408,Oracle Park,5
+4409,East Jerusalem,5
+4410,Maypole,5
+4411,Nina,5
+4412,Sparks,5
+4413,Battery,5
+4414,Horizon,5
+4415,Pomona,5
+4416,Katherina,5
+4417,Whitman Square,5
+4418,Cause Village,5
+4419,Lake Vadnais,5
+4420,Largo,5
+4421,the Kennedy Center Honors,5
+4422,Taysom Hill,5
+4423,Tarot,5
+4424,Chongqing,5
+4425,Freire,5
+4426,Peanut Butter,5
+4427,Camp Pendleton,5
+4428,Forrest Avenue,5
+4429,M.A.,5
+4430,las personas,5
+4431,the Air Grille Garden,5
+4432,Manheim,5
+4433,Sobhy,5
+4434,the Tampa Bay Lightning,5
+4435,Saquon,5
+4436,Deluxe,5
+4437,Washington D.C,5
+4438,Forest Park,5
+4439,Wharton State Park,5
+4440,Fullerton,5
+4441,Anchor,5
+4442,St. Peters,5
+4443,the Los Angeles Lakers,5
+4444,Scherzer,5
+4445,U.S.-made,5
+4446,Hancock Street,5
+4447,Bushmaster,5
+4448,las,5
+4449,Wister Street,5
+4450,Gotham City,5
+4451,the Big Bang,5
+4452,Millenia,5
+4453,Highland Park’s,5
+4454,Lincoln Square,5
+4455,Grand Prairie,5
+4456,Zilker Park,5
+4457,Mount Sinai,5
+4458,the Beatty Street,5
+4459,Courtland,5
+4460,Tioga County,5
+4461,DOYLESTOWN,5
+4462,"the ""City of Fraternal Love",5
+4463,Mesquite,5
+4464,Glenolden,5
+4465,NEVADA,5
+4466,the Michigan Lake,5
+4467,Johnston County,5
+4468,the School District’s,5
+4469,Toño,5
+4470,West Pullman,5
+4471,University Avenue,5
+4472,Middle Earth,5
+4473,San Mateo County Sheriff's,5
+4474,Wallace Streets,5
+4475,Block Island,5
+4476,Alba,5
+4477,Kalamazoo,5
+4478,Fda,5
+4479,Kingston,5
+4480,Kelsey,5
+4481,Fourth,5
+4482,Sea Isle City’s,5
+4483,roc,5
+4484,Asbury Avenue,5
+4485,Tulare,5
+4486,Juniper Street,5
+4487,Peyton,5
+4488,the Oklahoma City Thunder,5
+4489,Ziadeh,5
+4490,Lester,5
+4491,Fourth and South Streets,5
+4492,Port,5
+4493,Middle-earth,5
+4494,BUCKS COUNTY,5
+4495,Limón,5
+4496,the Lone Star State,5
+4497,Abu Dhabi,5
+4498,Dubois,5
+4499,Violet,5
+4500,Millinocket,5
+4501,Bacalar,5
+4502,Tinicum Township,5
+4503,Surfside,5
+4504,King Kong,5
+4505,Zaza,5
+4506,Affaghanistan,5
+4507,North Pine Street,5
+4508,the Philadelphia Area,5
+4509,Lititz,5
+4510,The District,5
+4511,Driving Equality,5
+4512,CPP,5
+4513,Barry County,5
+4514,Pearland,5
+4515,Philly-area,5
+4516,Ellerby,5
+4517,Jamal,5
+4518,North Camden,5
+4519,La Diva de la Banda',5
+4520,Wyoming Avenue,5
+4521,the Old Port,5
+4522,East Luzerne,5
+4523,52nd Street and Parkside Avenue,5
+4524,Republic,5
+4525,Hillcrest,5
+4526,Mapleton,5
+4527,El Camino Real,5
+4528,Jackman,5
+4529,Atco,5
+4530,mansion house,5
+4531,KANSAS CITY,5
+4532,Miami Herald,5
+4533,Holbrook Street,5
+4534,Verona,5
+4535,Brito,5
+4536,Township,5
+4537,Route 130,5
+4538,Blanco,5
+4539,Stokes Road,5
+4540,Pittsburgh International Airport,5
+4541,Band,5
+4542,Somerset County,5
+4543,Kashuba,5
+4544,Harlingen,5
+4545,Roosevelt,5
+4546,Telegraph,5
+4547,Northborough,5
+4548,Hays County,5
+4549,the Pro Football Hall of Fame,5
+4550,East Market,5
+4551,the Market-Frankford Line’s,5
+4552,St. Joseph's,5
+4553,Niger,5
+4554,Reure,5
+4555,Kamino,5
+4556,North Smedley Street,5
+4557,Forest Hills,5
+4558,North 19th Street,5
+4559,Giselle,5
+4560,Fort Worth Metroplex,5
+4561,Lawrence Township,5
+4562,League Island Park,5
+4563,Arlington County,5
+4564,The Oval,5
+4565,North Side,5
+4566,Covered California,5
+4567,Marcelo,5
+4568,the Shore Bike Tour,5
+4569,Southerland Springs,5
+4570,Morgan Hill,5
+4571,Blue Island,5
+4572,Eastern Shore,5
+4573,WEST GROVE,5
+4574,McPherson Square Library,5
+4575,Goddard Space Flight Center,5
+4576,Andover,5
+4577,Penns Landing,5
+4578,Piedmont,5
+4579,Feeding America,5
+4580,Branham,5
+4581,Giovanni,5
+4582,Wanda,5
+4583,Toa Baja,5
+4584,Orthodox Street,5
+4585,DUI,5
+4586,Hasim,5
+4587,Tulare County,5
+4588,Cisco,5
+4589,Lilibet,5
+4590,Sundberg,5
+4591,the Colombian Pacific,5
+4592,Pennsville,5
+4593,the Delaware Memorial Bridge,5
+4594,Lincoln Boulevard,5
+4595,Bayamón,5
+4596,the City of Philadelphia's,5
+4597,salsa,5
+4598,the United States - Spurred A Mob of Domestic Enemies,5
+4599,MALVERN,5
+4600,the Chester County District,5
+4601,DelDOT,5
+4602,Electra Road,5
+4603,Walt Disney,5
+4604,Matanzas,5
+4605,the United States's,5
+4606,Kathryne,5
+4607,South Broad,5
+4608,Tarrant,5
+4609,Ravnsborg,5
+4610,the Persian Gulf,5
+4611,Red Lodge,5
+4612,Gardiner,5
+4613,Irvington Blvd,5
+4614,Vermeil,5
+4615,Bertucci,5
+4616,Cape Henlopen State Park,5
+4617,Lawrence Street,5
+4618,Howard Street,5
+4619,Mt. Vernon Street,5
+4620,North Beach Mini Golf,5
+4621,Lebanon County,5
+4622,Ulysses,5
+4623,Kenly,5
+4624,Xanax,5
+4625,Tupelo,5
+4626,Across Pennsylvania,5
+4627,BEIJING,5
+4628,the Windy City,5
+4629,West Philly Porchfest,5
+4630,Cheltenham Avenue,5
+4631,Route 13,5
+4632,Sicily,5
+4633,Heinz Field,5
+4634,the Los Angeles Rams,5
+4635,Peyton Manning,5
+4636,Alena,5
+4637,New York-New Jersey,5
+4638,Helium,5
+4639,Passan,5
+4640,the Bay of Tampa,5
+4641,the East Village,5
+4642,the Wilma Theater,5
+4643,Lavelle,5
+4644,the New Jersey Turnpike,5
+4645,Wyndham,5
+4646,El Flaco',5
+4647,Asana,5
+4648,Mariposa County,5
+4649,Asheboro,5
+4650,Glasgow,5
+4651,Uvalde Town Square,5
+4652,Robb Primary,5
+4653,Koreatown,5
+4654,Sharon,5
+4655,Ligia,5
+4656,Longshore Avenue,5
+4657,Costa Delicious,5
+4658,São Paulo,5
+4659,McClain,5
+4660,Talina,5
+4661,Route,5
+4662,Spring City,5
+4663,Inc.,5
+4664,Sarmiento,5
+4665,Perry County,5
+4666,Muskogee,5
+4667,Mt. Vernon,5
+4668,spina bifida,5
+4669,the University Park,5
+4670,Schmidts,5
+4671,Chestnut Hill East,5
+4672,Exit 3,5
+4673,Rocky Mountain,5
+4674,Carmichael,5
+4675,Terrofloxx,5
+4676,Vt.,5
+4677,Depth,5
+4678,the San José,5
+4679,the Consulate of Guatemala,5
+4680,Yanaga,5
+4681,Jurassic,5
+4682,Carver,5
+4683,Hiawatha,5
+4684,the Club Level,5
+4685,the King of Prussia,5
+4686,North and South,5
+4687,Sr.,5
+4688,Prince George’s County,5
+4689,Uphoria,5
+4690,Nevaeh,5
+4691,Northwestern Avenue,5
+4692,the Salvatierra Homicide Research Office,5
+4693,Ellipse,5
+4694,south America,5
+4695,Long Island’s,5
+4696,Time Square,5
+4697,Metroplex,5
+4698,Juancho,5
+4699,St. Joseph’s Prep,5
+4700,North Christiana,5
+4701,Bedford County,5
+4702,Cherokee County,5
+4703,Cornwall,5
+4704,Upland Way,5
+4705,Juanito,5
+4706,the Central African Republic,5
+4707,Montgomery Drive,5
+4708,Sutcliffe Park,5
+4709,Lower Providence,5
+4710,Rota,5
+4711,W. Va.,5
+4712,Murlington,5
+4713,Nichette,5
+4714,Simon Gratz High School Mastery Charter,5
+4715,Potter County,5
+4716,Chikybombom,5
+4717,the Louis Kahn Lecture Room,5
+4718,Bradley Cooper,5
+4719,the District of Delaware,5
+4720,Jason,5
+4721,Gleim,5
+4722,Transgender Athletes,5
+4723,Rockford,5
+4724,the Independence Mall,5
+4725,the Footprint Center,5
+4726,Sherby,5
+4727,Snake Island,5
+4728,Madison Square Park,5
+4729,Rousey,5
+4730,Centennial District,5
+4731,Musgrave Street,5
+4732,Northern Mexico,5
+4733,Patchwork,5
+4734,Paco,5
+4735,Bolívar,5
+4736,Shatterproof,5
+4737,Hairston,5
+4738,the Grand Court,5
+4739,Negan,5
+4740,the Garita de San Ysidro,5
+4741,Barwin,5
+4742,Wharton,5
+4743,Milk Jawn,5
+4744,Walnut St,5
+4745,Cappelletti,5
+4746,marcona,5
+4747,Jayland Walker,5
+4748,Frederick County,5
+4749,Yardley,5
+4750,the West Indies,5
+4751,Agora,5
+4752,Central District,5
+4753,Torresdale,5
+4754,Pennypack Creek,5
+4755,Ark Road,5
+4756,Villanueva,5
+4757,Cramer Hill,5
+4758,Progressive City,5
+4759,Magill,5
+4760,JACKSON,5
+4761,ADDITIONALLY,5
+4762,Prospect Park,5
+4763,Aisle,5
+4764,Salt Lake County,5
+4765,Jalapeños,5
+4766,West Highland Avenue,5
+4767,Tacony Creek Park,5
+4768,Uncasville,5
+4769,Dustin,5
+4770,the Roman Empire,5
+4771,Troup Bingo of Kyiv,5
+4772,St. George,5
+4773,the Walnut Street Theatre,5
+4774,Corina,5
+4775,Big Ideas for Little Learners,5
+4776,Ocean Avenue,5
+4777,School District of Philadelphia,5
+4778,Puerto Ángel,5
+4779,the Fairmount Park Conservancy,5
+4780,the Navy Yard,5
+4781,Inkeles,5
+4782,Ritner Street,5
+4783,Petaluma,5
+4784,Cook,5
+4785,Poole,5
+4786,Lippincott Drive,5
+4787,East Parkside,5
+4788,East Side,5
+4789,Luzerne Street,5
+4790,North Philadelphia’s,5
+4791,Lastly,5
+4792,Clinton,5
+4793,Stewart,5
+4794,the Pennsylvania Railroad,5
+4795,Hollidaysburg,5
+4796,the Ivory Tower Falls,5
+4797,Laguna,5
+4798,Garfield Park,5
+4799,Echo,5
+4800,the Grand Boulé,5
+4801,East Hortter Street,5
+4802,Georgina,5
+4803,Oakley,5
+4804,the Hulmeville Garden Stroll,5
+4805,Springettsbury Township,5
+4806,Top Chef,5
+4807,Egg Harbor City,5
+4808,Rehoboth Avenue,5
+4809,Thompson Street,5
+4810,San Carlos,5
+4811,the Danube River,5
+4812,the Welcome America,5
+4813,Quran,5
+4814,Tokens,5
+4815,St. Martin’s,5
+4816,the Brandywine River Museum of Art,5
+4817,the Northeastern United States,5
+4818,Darien Street,5
+4819,Warzone,5
+4820,Barrera,5
+4821,Mikael,5
+4822,West Rogers Park,5
+4823,Tuckerton,5
+4824,KN95,5
+4825,Grand Canyon,5
+4826,Gasparina,5
+4827,Casa 4,5
+4828,Drexel Road,5
+4829,East Bay,5
+4830,Gay Bingo,5
+4831,Patchwork Patchwork,5
+4832,Wertheim,5
+4833,Derrick,5
+4834,Neshaminy Creek,5
+4835,Infantino,5
+4836,brazil,5
+4837,Brudy,5
+4838,Duchenne,5
+4839,the Upper House,5
+4840,southern Jersey,5
+4841,San Ramón,5
+4842,Tex.,5
+4843,the Sacramento River,5
+4844,Kaiser Permanente,5
+4845,Language,5
+4846,Erwin,5
+4847,Wellington Street,5
+4848,Broad,5
+4849,Philly’s,5
+4850,Ravens,5
+4851,River North,5
+4852,Larimer,5
+4853,the Northern Area,5
+4854,Latin Music,5
+4855,Gallegos,5
+4856,the Blob Ball,5
+4857,Santa Clara County Sheriff's,5
+4858,Town Hall,5
+4859,Richmond Street and Wheatsheaf Lane,5
+4860,the East Conservatory,5
+4861,Bower,5
+4862,the Dell East,5
+4863,Vazquez,5
+4864,Hackensack,5
+4865,Oroville,5
+4866,Billboard,5
+4867,the Avenue,5
+4868,Boenning,5
+4869,East Hartford,5
+4870,Boban Marjanović,5
+4871,Bollywood,5
+4872,Denney,5
+4873,NFC Championship Game,5
+4874,Shopify,5
+4875,iRacing,5
+4876,Bavaria,5
+4877,Osceola,5
+4878,St. John’s,5
+4879,D-Ariz.,5
+4880,Valledupar,5
+4881,Lutts,5
+4882,Johnson’s,5
+4883,West Whiteland,5
+4884,Miami Dade,5
+4885,Frattaroli,5
+4886,El Camino,5
+4887,Washington Crossing Park,5
+4888,Kingdom,5
+4889,Bottalico,5
+4890,Lincoln Park,5
+4891,Salinas,5
+4892,Warren County,5
+4893,Cannon Beach,5
+4894,40th Street,5
+4895,Celaya,5
+4896,West Hunting Park Avenue,5
+4897,Southern Cal,5
+4898,Schizophrenia,5
+4899,Ippolito,5
+4900,Sharswood Ridge,5
+4901,the Robb Primary of,5
+4902,the Port of Los Angeles,5
+4903,the Orange County Sheriff's,5
+4904,the San Joaquín River,5
+4905,Kirovohradska,5
+4906,Delray Beach,5
+4907,Torba,5
+4908,Maloney,5
+4909,Caruarú,5
+4910,Funland,5
+4911,Goldsboro,5
+4912,Sun City,5
+4913,Zocalo,5
+4914,Lindbergh Boulevard,5
+4915,the Bipartisan Policy Center,5
+4916,Aitana,5
+4917,the Inhulets River,5
+4918,Diania Kronk,5
+4919,San Diego State,5
+4920,Carbondale,5
+4921,Gladwyne,5
+4922,Copeland,5
+4923,Greencastle,5
+4924,Button,5
+4925,the Indian Ocean,5
+4926,Morris Park,5
+4927,The Broad Street Subway,5
+4928,Alba Martínez,5
+4929,Tybee Island,5
+4930,the Widener Building,5
+4931,Pittsburgh Pirates,5
+4932,Tropicana Atlantic City,5
+4933,the Youth Awards,5
+4934,Hill,5
+4935,Stovall,5
+4936,L'Enfant Plaza,5
+4937,Normandy,5
+4938,Crissin,5
+4939,the Sports Complex,5
+4940,The City of Pittsburgh,5
+4941,Philadelphia Mills,5
+4942,the Next Level,5
+4943,the Harlem River,5
+4944,Perseverance,5
+4945,east coast,5
+4946,the Sacramento Valley,5
+4947,2nd Floor,5
+4948,Bam,5
+4949,Lingering,5
+4950,Edgemont,5
+4951,Clear,5
+4952,Leila,5
+4953,Mbaizo,5
+4954,the AT&T Stadium,5
+4955,Omaha Beach,5
+4956,Clay Studio,5
+4957,North Atlantic,5
+4958,Tehachapi,5
+4959,North 52nd Street,5
+4960,Psilocybin,5
+4961,Biz,5
+4962,Karels,5
+4963,Granada,5
+4964,the Robb Primary of Uvalde,5
+4965,Ornato,5
+4966,Scarda,5
+4967,Lousiana,5
+4968,Washington Square Park,5
+4969,Hudson Street,5
+4970,Tweet,5
+4971,Music City,5
+4972,Old Bay,5
+4973,Zoom,5
+4974,Yabucoa,5
+4975,Camp,5
+4976,Sellersville,5
+4977,Mt. Airy’s,5
+4978,the Haas Biergarten,5
+4979,Dune Drive,5
+4980,N.D.,5
+4981,Kuehn,5
+4982,Red States,5
+4983,Aleksandr,5
+4984,NEW Jersey,5
+4985,St Georges Rd,5
+4986,Hunterdon County,5
+4987,Holmes,5
+4988,Julio,5
+4989,Chernobyl,5
+4990,Orellana,5
+4991,Colombo,5
+4992,25th Street,5
+4993,Jourdanton,5
+4994,Mantua Avenue,5
+4995,East Lancaster Avenue,5
+4996,Princeton Avenue,5
+4997,Valley Green Inn,5
+4998,Route 309,5
+4999,Bingham,5
+5000,Carmona,5
+5001,Los Angeles Rams,5
+5002,Wylie,5
+5003,St. Chris,5
+5004,Union Beach,5
+5005,the Indiana State Library,5
+5006,Yamina,5
+5007,Casa 5,5
+5008,Clearfield Street,5
+5009,Pennsburg,5
+5010,Delgado,5
+5011,the Gulf coast,5
+5012,the City Winery,5
+5013,Tilghman Street,5
+5014,WASHINGTON TOWNSHIP,5
+5015,Vacaville,5
+5016,the Dominican Republic’s,5
+5017,Ville,5
+5018,Hong Kong’s,5
+5019,Northern Illinois,5
+5020,FCM Hospitality,5
+5021,Wyomissing,5
+5022,Thruway,5
+5023,Southwest Pennsylvania,5
+5024,Route 422,5
+5025,Interest,5
+5026,47th Street,5
+5027,the James River,5
+5028,the Pacific Islands,5
+5029,Siler City,5
+5030,Jake,5
+5031,New Mexico’s,5
+5032,Oregon City,5
+5033,Lesbos,5
+5034,Philly Mag,5
+5035,the Allegiant Stadium,5
+5036,Ultimates,5
+5037,manga,5
+5038,Catalunya,5
+5039,Baptist Convention of Churches,5
+5040,Florid,5
+5041,Packer Park,5
+5042,Marcellus,5
+5043,Upland Square,5
+5044,the Port of Philadelphia,5
+5045,Eagle Plaza,5
+5046,Villa Clara,5
+5047,Atletico,5
+5048,Huntington,5
+5049,the Royal Albert Hall,5
+5050,Union Square,5
+5051,First District,5
+5052,Jakub,5
+5053,the Houston Texans,5
+5054,Brockie,5
+5055,Republics,5
+5056,Invasion of Ukraine,5
+5057,Lansdowne Avenue,5
+5058,Ridgefield Park,5
+5059,Rose Garden,5

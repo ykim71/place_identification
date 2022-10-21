@@ -30,8 +30,9 @@ data_re <- data_re %>% select(-contains("..."))
 data_merge <- rbind(data_done, data_re)
 data_merge <- data_merge %>% arrange(-desc(X))
 
+data_merge <- read.xlsx('data_merge.xlsx')
 data_merge_true <- data_merge %>% filter(is.na(address)==FALSE)
-write.xlsx(data_merge, "data_merge.xlsx")
+#write.xlsx(data_merge, "data_merge.xlsx")
 
 
 # view

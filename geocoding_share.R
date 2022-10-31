@@ -4,7 +4,7 @@ library(tidyverse)
 library(mapview)
 library(openxlsx)
 
-register_google(key = "AIzaSyD7caxQ0yruPRAJtCU26bJYR0WvqDp994w", write = TRUE)
+register_google(key = "XXX", write = TRUE)
 
 data <- read.csv("ner_place_freq_n5.csv")
 

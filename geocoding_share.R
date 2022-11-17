@@ -2,7 +2,7 @@
 library(ggmap)
 library(tidyverse)
 library(mapview)
-library(openxlsx)
+library(readxl)
 
 register_google(key = "XXX", write = TRUE)
 
@@ -60,3 +60,19 @@ write.xlsx(data_merge_all_50, "google_api_places_50.xlsx")
 data_merge_true %>% 
   mapview(cex = "counts", xcol = "lon", ycol = "lat", crs = 4269, grid = FALSE)
 
+
+place_org <- readRDS("places_original.RDS")
+place_pa <- readRDS("places_pa.RDS")
+place_usa <- readRDS("places_usa.RDS")
+
+place_org_true <- place_org %>% filter(is.na(address)==FALSE)
+place_org_true <- place_org_true %>% mutate(unique_values_pa = paste0(unique_values, ", PA, USA")) 
+
+colnames(place_pa) <- paste(colnames(place_pa), "pa", sep = "_")
+place_pa <- place_pa %>% mutate(unique_values_pa = unique_values_pa_pa) %>% select(-unique_values_pa_pa)
+
+place_org_true_merge <- list(place_org_true, place_pa) %>% reduce(left_join, by="unique_values_pa")
+place_org_true_merge <- place_org_true_merge %>% mutate(agree = ifelse(address==address_pa,1,0))
+table(place_org_true_merge$agree) # not agree = 2143
+
+write_csv(place_org_true_merge, "place_org_true_merge.csv")

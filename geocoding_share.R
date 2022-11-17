@@ -2,7 +2,7 @@
 library(ggmap)
 library(tidyverse)
 library(mapview)
-library(readxl)
+library(openxlsx)
 
 register_google(key = "XXX", write = TRUE)
 
@@ -75,4 +75,4 @@ place_org_true_merge <- list(place_org_true, place_pa) %>% reduce(left_join, by=
 place_org_true_merge <- place_org_true_merge %>% mutate(agree = ifelse(address==address_pa,1,0))
 table(place_org_true_merge$agree) # not agree = 2143
 
-write_csv(place_org_true_merge, "place_org_true_merge.csv")
+write.xlsx(place_org_true_merge, "place_org_true_merge.xlsx")
